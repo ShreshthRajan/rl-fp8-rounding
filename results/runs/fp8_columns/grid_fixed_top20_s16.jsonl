@@ -1,0 +1,775 @@
+{"kind": "meta", "start": "grid", "cast": "fd", "tie_frac_ckpt": 0.06260476863427913}
+{"kind": "kl0", "t": 0, "kl": 0.03373205165068308}
+{"kind": "codes", "changed_frac": 0.12593527434073087, "changed_frac_nonzero": 0.0016820015507469648, "changed_frac_zero": 0.9700459225098838, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 1, "kl": 0.1885868079132504}
+{"kind": "reward", "t": 1, "reward": 0.125, "entropy": 0.9466015696525574}
+{"kind": "codes", "changed_frac": 0.09225111741286057, "changed_frac_nonzero": 0.0009821491486769523, "changed_frac_zero": 0.7122839441491571, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 2, "kl": 0.2490597665309906}
+{"kind": "reward", "t": 2, "reward": 0.09375, "entropy": 0.6554239988327026}
+{"kind": "codes", "changed_frac": 0.07791598812564389, "changed_frac_nonzero": 0.0008845578053035451, "changed_frac_zero": 0.6012265546569823, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 3, "kl": 0.27537719739807975}
+{"kind": "reward", "t": 3, "reward": 0.125, "entropy": 0.49249136447906494}
+{"kind": "codes", "changed_frac": 0.06621325147020948, "changed_frac_nonzero": 0.0006214459009681713, "changed_frac_zero": 0.5118090918889936, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 4, "reward": 0.1875, "entropy": 0.3214501440525055}
+{"kind": "codes", "changed_frac": 0.05687091533954327, "changed_frac_nonzero": 0.0006522076926786785, "changed_frac_zero": 0.4387909137868785, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 5, "kl": 0.30711765090624493}
+{"kind": "reward", "t": 5, "reward": 0.0625, "entropy": 0.4771454930305481}
+{"kind": "codes", "changed_frac": 0.04990952600052942, "changed_frac_nonzero": 0.0004767580781547065, "changed_frac_zero": 0.3857294592289975, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 6, "reward": 0.15625, "entropy": 0.47462984919548035}
+{"kind": "codes", "changed_frac": 0.043889058989919585, "changed_frac_nonzero": 0.00046310041971940044, "changed_frac_zero": 0.33890192434933675, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 7, "reward": 0.03125, "entropy": 0.6349737048149109}
+{"kind": "codes", "changed_frac": 0.039302479391132954, "changed_frac_nonzero": 0.0003747071566396301, "changed_frac_zero": 0.3037570592570414, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 8, "reward": 0.0625, "entropy": 0.46970465779304504}
+{"kind": "codes", "changed_frac": 0.03574538178496308, "changed_frac_nonzero": 0.000446320094777994, "changed_frac_zero": 0.2755484322319927, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 9, "reward": 0.09375, "entropy": 0.36011040210723877}
+{"kind": "codes", "changed_frac": 0.03249410831884587, "changed_frac_nonzero": 0.00033643685881281136, "changed_frac_zero": 0.2509562243680523, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 10, "kl": 0.32017659809854293}
+{"kind": "reward", "t": 10, "reward": 0.4375, "entropy": 0.3366139233112335}
+{"kind": "codes", "changed_frac": 0.029956778501852965, "changed_frac_nonzero": 0.00035843658937221743, "changed_frac_zero": 0.23103217084749678, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 11, "reward": 0.03125, "entropy": 0.5038394331932068}
+{"kind": "codes", "changed_frac": 0.027436993497631925, "changed_frac_nonzero": 0.00023333756774178546, "changed_frac_zero": 0.21224416295032442, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 12, "reward": 0.375, "entropy": 0.38415515422821045}
+{"kind": "codes", "changed_frac": 0.025383602044521236, "changed_frac_nonzero": 0.0002694309758790331, "changed_frac_zero": 0.19599592269392485, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 13, "reward": 0.5625, "entropy": 0.3198305666446686}
+{"kind": "codes", "changed_frac": 0.023024998479710394, "changed_frac_nonzero": 0.00020954567026563385, "changed_frac_zero": 0.17802104990609655, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 14, "reward": 0.5, "entropy": 0.20292970538139343}
+{"kind": "codes", "changed_frac": 0.021432830475188874, "changed_frac_nonzero": 0.0003262384993098282, "changed_frac_zero": 0.1648197902980876, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 15, "reward": 0.0625, "entropy": 0.39335015416145325}
+{"kind": "codes", "changed_frac": 0.01978270981337998, "changed_frac_nonzero": 0.00019234215027411932, "changed_frac_zero": 0.15286924809657362, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 16, "reward": 0.03125, "entropy": 0.353167325258255}
+{"kind": "codes", "changed_frac": 0.017984964559366413, "changed_frac_nonzero": 0.00022700887812880565, "changed_frac_zero": 0.138623070451229, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 17, "reward": 0.0, "entropy": 0.2830779254436493}
+{"kind": "codes", "changed_frac": 0.01674776182069883, "changed_frac_nonzero": 0.0001664086293625723, "changed_frac_zero": 0.12939265620120935, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 18, "reward": 0.125, "entropy": 0.42505672574043274}
+{"kind": "codes", "changed_frac": 0.01576406737386962, "changed_frac_nonzero": 0.00013086024515349413, "changed_frac_zero": 0.12196776169979433, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 19, "reward": 0.09375, "entropy": 0.37813785672187805}
+{"kind": "codes", "changed_frac": 0.015148087386246565, "changed_frac_nonzero": 0.00026501628206086026, "changed_frac_zero": 0.11625575653984722, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 20, "reward": 0.09375, "entropy": 0.3580928146839142}
+{"kind": "codes", "changed_frac": 0.014175845415164263, "changed_frac_nonzero": 0.0001339091731281364, "changed_frac_zero": 0.10956929169363123, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 21, "reward": 0.3125, "entropy": 0.27597594261169434}
+{"kind": "codes", "changed_frac": 0.01349394801772121, "changed_frac_nonzero": 0.00015726184543864553, "changed_frac_zero": 0.10409630042691663, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 22, "reward": 0.125, "entropy": 0.5996391177177429}
+{"kind": "codes", "changed_frac": 0.012814624492938702, "changed_frac_nonzero": 0.00012014250990719649, "changed_frac_zero": 0.0990541832124909, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 23, "reward": 0.15625, "entropy": 0.38296636939048767}
+{"kind": "codes", "changed_frac": 0.012252525357536345, "changed_frac_nonzero": 0.00019583030341440403, "changed_frac_zero": 0.09415929890477666, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 24, "reward": 0.34375, "entropy": 0.26648253202438354}
+{"kind": "codes", "changed_frac": 0.011596897670200893, "changed_frac_nonzero": 0.00012106584456197775, "changed_frac_zero": 0.08955759538955399, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 25, "kl": 0.3742237190405528}
+{"kind": "reward", "t": 25, "reward": 0.0625, "entropy": 0.34359031915664673}
+{"kind": "codes", "changed_frac": 0.05097571013174651, "changed_frac_nonzero": 0.0005150027277966701, "changed_frac_zero": 0.3937789174630838, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 26, "reward": 0.28125, "entropy": 0.30826422572135925}
+{"kind": "codes", "changed_frac": 0.04762524056347298, "changed_frac_nonzero": 0.0004819165693336753, "changed_frac_zero": 0.3678919094406981, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 27, "reward": 0.3125, "entropy": 0.2825101613998413}
+{"kind": "codes", "changed_frac": 0.0441114516485305, "changed_frac_nonzero": 0.00045286038191602785, "changed_frac_zero": 0.3407046998159523, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 28, "reward": 0.03125, "entropy": 0.41714638471603394}
+{"kind": "codes", "changed_frac": 0.04083315671145261, "changed_frac_nonzero": 0.00042251537320941486, "changed_frac_zero": 0.3153615605677519, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 29, "reward": 0.25, "entropy": 0.48117342591285706}
+{"kind": "codes", "changed_frac": 0.03723244859185411, "changed_frac_nonzero": 0.00039454602762499947, "changed_frac_zero": 0.28748956546668725, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 30, "reward": 0.28125, "entropy": 0.3871767818927765}
+{"kind": "codes", "changed_frac": 0.03347470908811241, "changed_frac_nonzero": 0.00036436132007373044, "changed_frac_zero": 0.258408801269531, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 31, "reward": 0.21875, "entropy": 0.4198346436023712}
+{"kind": "codes", "changed_frac": 0.03084726298685039, "changed_frac_nonzero": 0.0003458978330012123, "changed_frac_zero": 0.23805731493918073, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 32, "reward": 0.1875, "entropy": 0.46113017201423645}
+{"kind": "codes", "changed_frac": 0.02879341600578783, "changed_frac_nonzero": 0.0003296785621035097, "changed_frac_zero": 0.22216090905778366, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 33, "reward": 0.21875, "entropy": 0.43678927421569824}
+{"kind": "codes", "changed_frac": 0.02666830544943338, "changed_frac_nonzero": 0.00030335711239603034, "changed_frac_zero": 0.20577774160359155, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 34, "reward": 0.1875, "entropy": 0.4071206748485565}
+{"kind": "codes", "changed_frac": 0.025034910767942994, "changed_frac_nonzero": 0.0002937518671678198, "changed_frac_zero": 0.19311318514457432, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 35, "reward": 0.03125, "entropy": 0.4247625172138214}
+{"kind": "codes", "changed_frac": 0.02334016792940133, "changed_frac_nonzero": 0.0002748459489065523, "changed_frac_zero": 0.18003369760482335, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 36, "reward": 0.09375, "entropy": 0.6761056184768677}
+{"kind": "codes", "changed_frac": 0.021760821779132328, "changed_frac_nonzero": 0.0002614511843660104, "changed_frac_zero": 0.16781611062976065, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 37, "reward": 0.125, "entropy": 0.5174925923347473}
+{"kind": "codes", "changed_frac": 0.020351778805910888, "changed_frac_nonzero": 0.0002489188400412191, "changed_frac_zero": 0.1569199172124176, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 38, "reward": 0.15625, "entropy": 0.49780356884002686}
+{"kind": "codes", "changed_frac": 0.01905560056805174, "changed_frac_nonzero": 0.00023045535296870094, "changed_frac_zero": 0.14694362454180018, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 39, "reward": 0.375, "entropy": 0.6434965133666992}
+{"kind": "codes", "changed_frac": 0.017661369239890968, "changed_frac_nonzero": 0.00022088858001777296, "changed_frac_zero": 0.13614271869351965, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 40, "reward": 0.15625, "entropy": 0.4529102146625519}
+{"kind": "codes", "changed_frac": 0.016564005198496164, "changed_frac_nonzero": 0.00020811257793685879, "changed_frac_zero": 0.12767724037791028, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 41, "reward": 0.09375, "entropy": 0.5393468141555786}
+{"kind": "codes", "changed_frac": 0.015590298830807864, "changed_frac_nonzero": 0.00019826688097563232, "changed_frac_zero": 0.1201555772663593, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 42, "reward": 0.0625, "entropy": 0.41122594475746155}
+{"kind": "codes", "changed_frac": 0.014804440452938989, "changed_frac_nonzero": 0.00018883155497208642, "changed_frac_zero": 0.11409511363385647, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 43, "reward": 0.15625, "entropy": 0.43878158926963806}
+{"kind": "codes", "changed_frac": 0.013900530469286573, "changed_frac_nonzero": 0.0001857633908588029, "changed_frac_zero": 0.10707136346318281, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 44, "reward": 0.34375, "entropy": 0.521723210811615}
+{"kind": "codes", "changed_frac": 0.013424369616386218, "changed_frac_nonzero": 0.00017959179637806015, "changed_frac_zero": 0.10340234556395202, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 45, "reward": 0.3125, "entropy": 0.48130926489830017}
+{"kind": "codes", "changed_frac": 0.012557779388986664, "changed_frac_nonzero": 0.0001692972561818706, "changed_frac_zero": 0.09671853787966188, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 46, "reward": 0.09375, "entropy": 0.3532063961029053}
+{"kind": "codes", "changed_frac": 0.01202245579534398, "changed_frac_nonzero": 0.0001645331058450479, "changed_frac_zero": 0.09257887561931748, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 47, "reward": 0.125, "entropy": 0.4249906539916992}
+{"kind": "codes", "changed_frac": 0.011572120303199405, "changed_frac_nonzero": 0.00015761450798040225, "changed_frac_zero": 0.08911620158964059, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 48, "reward": 0.1875, "entropy": 0.2748959958553314}
+{"kind": "codes", "changed_frac": 0.01118455544496194, "changed_frac_nonzero": 0.0001531869900698019, "changed_frac_zero": 0.08612580542226125, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 49, "reward": 0.21875, "entropy": 0.26530593633651733}
+{"kind": "codes", "changed_frac": 0.011001371726011618, "changed_frac_nonzero": 0.0001552196087195634, "changed_frac_zero": 0.08468436041753075, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 50, "kl": 0.3927678101592594}
+{"kind": "reward", "t": 50, "reward": 0.3125, "entropy": 0.39183393120765686}
+{"kind": "codes", "changed_frac": 0.04565967098697201, "changed_frac_nonzero": 0.00048600104277183963, "changed_frac_zero": 0.3525455578579694, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 51, "reward": 0.21875, "entropy": 0.385741651058197}
+{"kind": "codes", "changed_frac": 0.04222933591067136, "changed_frac_nonzero": 0.000456043962861159, "changed_frac_zero": 0.3260148632490526, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 52, "reward": 0.28125, "entropy": 0.24119094014167786}
+{"kind": "codes", "changed_frac": 0.03912349603114984, "changed_frac_nonzero": 0.00042694930316622897, "changed_frac_zero": 0.3020072527888167, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 53, "reward": 0.34375, "entropy": 0.2237405627965927}
+{"kind": "codes", "changed_frac": 0.03613737057416867, "changed_frac_nonzero": 0.00040040984388748177, "changed_frac_zero": 0.2789152741922124, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 54, "reward": 0.09375, "entropy": 0.2951125204563141}
+{"kind": "codes", "changed_frac": 0.03351781935918899, "changed_frac_nonzero": 0.00037693854872201813, "changed_frac_zero": 0.25865933679111414, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 55, "reward": 0.1875, "entropy": 0.3508610725402832}
+{"kind": "codes", "changed_frac": 0.030978312509837166, "changed_frac_nonzero": 0.0003499887184855904, "changed_frac_zero": 0.2390508539192779, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 56, "reward": 0.40625, "entropy": 0.2539368271827698}
+{"kind": "codes", "changed_frac": 0.02849403073936155, "changed_frac_nonzero": 0.0003248919696049389, "changed_frac_zero": 0.21986017709025915, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 57, "reward": 0.21875, "entropy": 0.3000536859035492}
+{"kind": "codes", "changed_frac": 0.026459732335129063, "changed_frac_nonzero": 0.0003056686550560903, "changed_frac_zero": 0.20413653029407441, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 58, "reward": 0.09375, "entropy": 0.2598079442977905}
+{"kind": "codes", "changed_frac": 0.024639154790521978, "changed_frac_nonzero": 0.00029104277764250674, "changed_frac_zero": 0.1900472776624659, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 59, "reward": 0.40625, "entropy": 0.14788009226322174}
+{"kind": "codes", "changed_frac": 0.022813594384944482, "changed_frac_nonzero": 0.00027330385179214335, "changed_frac_zero": 0.17594033965803937, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 60, "reward": 0.46875, "entropy": 0.17016303539276123}
+{"kind": "codes", "changed_frac": 0.02115028297508156, "changed_frac_nonzero": 0.00025725450011910536, "changed_frac_zero": 0.16308640596176532, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 61, "reward": 0.59375, "entropy": 0.26066988706588745}
+{"kind": "codes", "changed_frac": 0.019663235730740615, "changed_frac_nonzero": 0.00024388217774031163, "changed_frac_zero": 0.1515879951079471, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 62, "reward": 0.0625, "entropy": 0.3244255781173706}
+{"kind": "codes", "changed_frac": 0.018347631880651902, "changed_frac_nonzero": 0.0002309234323423053, "changed_frac_zero": 0.14142291326049908, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 63, "reward": 0.3125, "entropy": 0.23564574122428894}
+{"kind": "codes", "changed_frac": 0.017138043078747424, "changed_frac_nonzero": 0.00021991394899328166, "changed_frac_zero": 0.1320708140622846, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 64, "reward": 0.40625, "entropy": 0.1929091513156891}
+{"kind": "codes", "changed_frac": 0.0159882318405878, "changed_frac_nonzero": 0.00020832738148501972, "changed_frac_zero": 0.12318850980456814, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 65, "reward": 0.28125, "entropy": 0.2986319065093994}
+{"kind": "codes", "changed_frac": 0.014477854857951293, "changed_frac_nonzero": 0.000191101419331757, "changed_frac_zero": 0.11153445895794516, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 66, "reward": 0.25, "entropy": 0.19091783463954926}
+{"kind": "codes", "changed_frac": 0.01377677498282967, "changed_frac_nonzero": 0.00018502921156732753, "changed_frac_zero": 0.1061118666477587, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 67, "reward": 0.375, "entropy": 0.2688165307044983}
+{"kind": "codes", "changed_frac": 0.013078696561820341, "changed_frac_nonzero": 0.00017937058078368548, "changed_frac_zero": 0.10070985645248975, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 68, "reward": 0.375, "entropy": 0.25223442912101746}
+{"kind": "codes", "changed_frac": 0.011865541786501259, "changed_frac_nonzero": 0.00016325390262540303, "changed_frac_zero": 0.09136466151927937, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 69, "reward": 0.25, "entropy": 0.18230529129505157}
+{"kind": "codes", "changed_frac": 0.011459358969887534, "changed_frac_nonzero": 0.00016189775485119307, "changed_frac_zero": 0.08820830163161286, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 70, "reward": 0.71875, "entropy": 0.15939961373806}
+{"kind": "codes", "changed_frac": 0.010975987919957646, "changed_frac_nonzero": 0.00015789343199070077, "changed_frac_zero": 0.08446836800098376, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 71, "reward": 0.375, "entropy": 0.16093672811985016}
+{"kind": "codes", "changed_frac": 0.010496207995292469, "changed_frac_nonzero": 0.00015474832332285212, "changed_frac_zero": 0.08075058464640875, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 72, "reward": 0.34375, "entropy": 0.19546493887901306}
+{"kind": "codes", "changed_frac": 0.010155987302898925, "changed_frac_nonzero": 0.00015282470945872451, "changed_frac_zero": 0.07811215353412664, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 73, "reward": 0.6875, "entropy": 0.19690759479999542}
+{"kind": "codes", "changed_frac": 0.009759538252275069, "changed_frac_nonzero": 0.0001493974707574705, "changed_frac_zero": 0.07504572333163935, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 74, "reward": 0.5625, "entropy": 0.1392941027879715}
+{"kind": "codes", "changed_frac": 0.009378781161465488, "changed_frac_nonzero": 0.00014380616645907294, "changed_frac_zero": 0.07211628942844425, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 75, "reward": 0.46875, "entropy": 0.15530380606651306}
+{"kind": "codes", "changed_frac": 0.042239500052762995, "changed_frac_nonzero": 0.00047650480232926297, "changed_frac_zero": 0.3259550771057208, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 76, "reward": 0.25, "entropy": 0.26220381259918213}
+{"kind": "codes", "changed_frac": 0.03955960116543612, "changed_frac_nonzero": 0.00044686511870616345, "changed_frac_zero": 0.3052707267941174, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 77, "reward": 0.5625, "entropy": 0.13479840755462646}
+{"kind": "codes", "changed_frac": 0.03677053486471211, "changed_frac_nonzero": 0.00041892462732971, "changed_frac_zero": 0.2837240403175099, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 78, "reward": 0.28125, "entropy": 0.2550910711288452}
+{"kind": "codes", "changed_frac": 0.034097284449762476, "changed_frac_nonzero": 0.0003902884289390637, "changed_frac_zero": 0.2630846875185198, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 79, "reward": 0.65625, "entropy": 0.1435166448354721}
+{"kind": "codes", "changed_frac": 0.031621635353172216, "changed_frac_nonzero": 0.00036763787568896115, "changed_frac_zero": 0.24394467100621864, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 80, "reward": 0.46875, "entropy": 0.19867613911628723}
+{"kind": "codes", "changed_frac": 0.029235532432248742, "changed_frac_nonzero": 0.000344019103460581, "changed_frac_zero": 0.2255091073244908, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 81, "reward": 0.28125, "entropy": 0.24982769787311554}
+{"kind": "codes", "changed_frac": 0.02701209211524153, "changed_frac_nonzero": 0.0003236320025239353, "changed_frac_zero": 0.20831929520565878, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 82, "reward": 0.4375, "entropy": 0.16308481991291046}
+{"kind": "codes", "changed_frac": 0.025044803828983518, "changed_frac_nonzero": 0.00030286979688378464, "changed_frac_zero": 0.1931283440355612, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 83, "reward": 0.0625, "entropy": 0.19347810745239258}
+{"kind": "codes", "changed_frac": 0.023148941207718064, "changed_frac_nonzero": 0.000284845534976909, "changed_frac_zero": 0.17847544637543403, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 84, "reward": 0.3125, "entropy": 0.27202895283699036}
+{"kind": "codes", "changed_frac": 0.021528251005179716, "changed_frac_nonzero": 0.00026894686638989434, "changed_frac_zero": 0.16595265603916604, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 85, "reward": 0.53125, "entropy": 0.1699042022228241}
+{"kind": "codes", "changed_frac": 0.020033487732157167, "changed_frac_nonzero": 0.0002539555023421265, "changed_frac_zero": 0.15440510946973524, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 86, "reward": 0.4375, "entropy": 0.19400767982006073}
+{"kind": "codes", "changed_frac": 0.018686413328289547, "changed_frac_nonzero": 0.00024023051742157604, "changed_frac_zero": 0.143999968288297, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 87, "reward": 0.03125, "entropy": 0.21676915884017944}
+{"kind": "codes", "changed_frac": 0.01751952398390997, "changed_frac_nonzero": 0.0002305226794539454, "changed_frac_zero": 0.13497180326486358, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 88, "reward": 0.6875, "entropy": 0.1026465967297554}
+{"kind": "codes", "changed_frac": 0.01641448024428371, "changed_frac_nonzero": 0.00021770820509574868, "changed_frac_zero": 0.12644673482606447, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 89, "reward": 0.46875, "entropy": 0.2046526074409485}
+{"kind": "codes", "changed_frac": 0.015347242530012305, "changed_frac_nonzero": 0.00020600301473253218, "changed_frac_zero": 0.11820877055535273, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 90, "reward": 0.1875, "entropy": 0.2178443819284439}
+{"kind": "codes", "changed_frac": 0.014505259195963542, "changed_frac_nonzero": 0.0002001808767704393, "changed_frac_zero": 0.11168635278803478, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 91, "reward": 0.5, "entropy": 0.16778160631656647}
+{"kind": "codes", "changed_frac": 0.013647184267148867, "changed_frac_nonzero": 0.00019217543707256157, "changed_frac_zero": 0.10505335788057273, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 92, "reward": 0.1875, "entropy": 0.2266899049282074}
+{"kind": "codes", "changed_frac": 0.012928400284204727, "changed_frac_nonzero": 0.00018832820934430638, "changed_frac_zero": 0.09947767383942845, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 93, "reward": 0.4375, "entropy": 0.205585315823555}
+{"kind": "codes", "changed_frac": 0.012248774937220982, "changed_frac_nonzero": 0.0001800053733588476, "changed_frac_zero": 0.09423757628151054, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 94, "reward": 0.5625, "entropy": 0.12263809144496918}
+{"kind": "codes", "changed_frac": 0.011612704210665636, "changed_frac_nonzero": 0.00017454872203093895, "changed_frac_zero": 0.08931744893550064, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 95, "reward": 0.3125, "entropy": 0.2955669164657593}
+{"kind": "codes", "changed_frac": 0.011028018713870765, "changed_frac_nonzero": 0.0001679603445463019, "changed_frac_zero": 0.08480547908531513, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 96, "reward": 0.59375, "entropy": 0.1332036256790161}
+{"kind": "codes", "changed_frac": 0.010431000426575378, "changed_frac_nonzero": 0.00016108983702825948, "changed_frac_zero": 0.08019931066685639, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 97, "reward": 0.3125, "entropy": 0.14166156947612762}
+{"kind": "codes", "changed_frac": 0.00945857680324233, "changed_frac_nonzero": 0.00014653449212302726, "changed_frac_zero": 0.07271963942574027, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 98, "reward": 0.75, "entropy": 0.09252382814884186}
+{"kind": "codes", "changed_frac": 0.009199487595331101, "changed_frac_nonzero": 0.0001467589137405088, "changed_frac_zero": 0.07069891134115697, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 99, "reward": 0.15625, "entropy": 0.372882217168808}
+{"kind": "codes", "changed_frac": 0.00885272462726076, "changed_frac_nonzero": 0.0001428155053190472, "changed_frac_zero": 0.06802321462186549, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 100, "kl": 0.5933246943685744}
+{"kind": "reward", "t": 100, "reward": 0.3125, "entropy": 0.21842677891254425}
+{"kind": "codes", "changed_frac": 0.041597398471482944, "changed_frac_nonzero": 0.00047624832048071263, "changed_frac_zero": 0.3209526213000409, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 101, "reward": 0.03125, "entropy": 0.29476800560951233}
+{"kind": "codes", "changed_frac": 0.038886409102778734, "changed_frac_nonzero": 0.00044534866977660953, "changed_frac_zero": 0.3000345278590251, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 102, "reward": 0.5, "entropy": 0.14342816174030304}
+{"kind": "codes", "changed_frac": 0.036243279425652475, "changed_frac_nonzero": 0.00041930614407942866, "changed_frac_zero": 0.27961230003740284, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 103, "reward": 0.71875, "entropy": 0.08689945936203003}
+{"kind": "codes", "changed_frac": 0.0336133796216804, "changed_frac_nonzero": 0.00039235951986610774, "changed_frac_zero": 0.2592993207749617, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 104, "reward": 0.5, "entropy": 0.17295512557029724}
+{"kind": "codes", "changed_frac": 0.031204234811412546, "changed_frac_nonzero": 0.00036692293253612703, "changed_frac_zero": 0.2406965301320311, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 105, "reward": 0.34375, "entropy": 0.28729984164237976}
+{"kind": "codes", "changed_frac": 0.028991053654597355, "changed_frac_nonzero": 0.0003430284423205553, "changed_frac_zero": 0.22361049978841804, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 106, "reward": 0.15625, "entropy": 0.16377508640289307}
+{"kind": "codes", "changed_frac": 0.026924706204033595, "changed_frac_nonzero": 0.0003251356273610617, "changed_frac_zero": 0.2076280410646516, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 107, "reward": 0.1875, "entropy": 0.1727829873561859}
+{"kind": "codes", "changed_frac": 0.024902735001001604, "changed_frac_nonzero": 0.00030363283038322195, "changed_frac_zero": 0.19201595150932133, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 108, "reward": 0.4375, "entropy": 0.2142956405878067}
+{"kind": "codes", "changed_frac": 0.02317228491926368, "changed_frac_nonzero": 0.0002850154542015736, "changed_frac_zero": 0.1786562205064555, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 109, "reward": 0.3125, "entropy": 0.17586545646190643}
+{"kind": "codes", "changed_frac": 0.021483287881145546, "changed_frac_nonzero": 0.00026841146053104546, "changed_frac_zero": 0.1656058746278258, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 110, "reward": 0.375, "entropy": 0.13936777412891388}
+{"kind": "codes", "changed_frac": 0.020038889790629292, "changed_frac_nonzero": 0.0002558085836979028, "changed_frac_zero": 0.1544346213911249, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 111, "reward": 0.21875, "entropy": 0.15791882574558258}
+{"kind": "codes", "changed_frac": 0.018663069616743935, "changed_frac_nonzero": 0.00024217336742434492, "changed_frac_zero": 0.14380484112687275, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 112, "reward": 0.15625, "entropy": 0.28276556730270386}
+{"kind": "codes", "changed_frac": 0.017463591858580874, "changed_frac_nonzero": 0.00023062527219336554, "changed_frac_zero": 0.13453520106842304, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 113, "reward": 0.15625, "entropy": 0.3040841221809387}
+{"kind": "codes", "changed_frac": 0.016391273470588656, "changed_frac_nonzero": 0.0002192855684643333, "changed_frac_zero": 0.12625515780721328, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 114, "reward": 0.28125, "entropy": 0.1912843883037567}
+{"kind": "codes", "changed_frac": 0.015298654744913289, "changed_frac_nonzero": 0.00020754190582383426, "changed_frac_zero": 0.11781964879332506, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 115, "reward": 0.65625, "entropy": 0.10594601184129715}
+{"kind": "codes", "changed_frac": 0.014478958744705814, "changed_frac_nonzero": 0.0001998538624135376, "changed_frac_zero": 0.1114836026210855, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 116, "reward": 0.25, "entropy": 0.21368186175823212}
+{"kind": "codes", "changed_frac": 0.013690157600374885, "changed_frac_nonzero": 0.0001919221612471181, "changed_frac_zero": 0.10538998980455681, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 117, "reward": 0.28125, "entropy": 0.1920323222875595}
+{"kind": "codes", "changed_frac": 0.012923842210036058, "changed_frac_nonzero": 0.00018489776461994546, "changed_frac_zero": 0.09946545525057265, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 118, "reward": 0.59375, "entropy": 0.17413562536239624}
+{"kind": "codes", "changed_frac": 0.012223167559166094, "changed_frac_nonzero": 0.0001779727547090861, "changed_frac_zero": 0.09405181452687414, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 119, "reward": 0.53125, "entropy": 0.20333731174468994}
+{"kind": "codes", "changed_frac": 0.011748554942372081, "changed_frac_nonzero": 0.0001735292066829513, "changed_frac_zero": 0.09038312332788012, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 120, "reward": 0.53125, "entropy": 0.19095055758953094}
+{"kind": "codes", "changed_frac": 0.011132382123898237, "changed_frac_nonzero": 0.00016701777375287939, "changed_frac_zero": 0.08562523531945805, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 121, "reward": 0.375, "entropy": 0.1651168316602707}
+{"kind": "codes", "changed_frac": 0.010622406005859375, "changed_frac_nonzero": 0.00016201317168304072, "changed_frac_zero": 0.08168475130347405, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 122, "reward": 0.40625, "entropy": 0.17679733037948608}
+{"kind": "codes", "changed_frac": 0.010120760739504636, "changed_frac_nonzero": 0.0001575439754720509, "changed_frac_zero": 0.07780555625191106, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 123, "reward": 0.09375, "entropy": 0.15603771805763245}
+{"kind": "codes", "changed_frac": 0.009756324404761905, "changed_frac_nonzero": 0.00015272532274241126, "changed_frac_zero": 0.0749980686571002, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 124, "reward": 0.0625, "entropy": 0.15915998816490173}
+{"kind": "codes", "changed_frac": 0.009294908125321943, "changed_frac_nonzero": 0.00014555986109853592, "changed_frac_zero": 0.07145071392604845, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 125, "reward": 0.375, "entropy": 0.17344796657562256}
+{"kind": "codes", "changed_frac": 0.038266905061491246, "changed_frac_nonzero": 0.0004556111497417303, "changed_frac_zero": 0.2951367250291956, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 126, "reward": 0.125, "entropy": 0.13522668182849884}
+{"kind": "codes", "changed_frac": 0.03578057481255723, "changed_frac_nonzero": 0.0004286452893897682, "changed_frac_zero": 0.27594278119780896, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 127, "reward": 0.78125, "entropy": 0.13317559659481049}
+{"kind": "codes", "changed_frac": 0.0332900889190562, "changed_frac_nonzero": 0.0004033754152613452, "changed_frac_zero": 0.25670492885459834, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 128, "reward": 0.34375, "entropy": 0.15452589094638824}
+{"kind": "codes", "changed_frac": 0.030860121171553057, "changed_frac_nonzero": 0.0003769000764447356, "changed_frac_zero": 0.2379469120391629, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 129, "reward": 0.40625, "entropy": 0.12967418134212494}
+{"kind": "codes", "changed_frac": 0.028626759847005207, "changed_frac_nonzero": 0.0003527010140340103, "changed_frac_zero": 0.2207056773030608, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 130, "reward": 0.75, "entropy": 0.07966144382953644}
+{"kind": "codes", "changed_frac": 0.026537884722699176, "changed_frac_nonzero": 0.00033172079882259187, "changed_frac_zero": 0.20456862402724732, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 131, "reward": 0.53125, "entropy": 0.10896328836679459}
+{"kind": "codes", "changed_frac": 0.02451881157172905, "changed_frac_nonzero": 0.0003103462427690273, "changed_frac_zero": 0.18897824914765543, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 132, "reward": 0.5, "entropy": 0.1823866069316864}
+{"kind": "codes", "changed_frac": 0.02282566168369391, "changed_frac_nonzero": 0.0002941141477788972, "changed_frac_zero": 0.175893011683737, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 133, "reward": 0.28125, "entropy": 0.16749686002731323}
+{"kind": "codes", "changed_frac": 0.021182865799565017, "changed_frac_nonzero": 0.000277298556583315, "changed_frac_zero": 0.1632041705071187, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 134, "reward": 0.3125, "entropy": 0.14209240674972534}
+{"kind": "codes", "changed_frac": 0.019553498208741128, "changed_frac_nonzero": 0.0002602296895622894, "changed_frac_zero": 0.15062170292759786, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 135, "reward": 0.46875, "entropy": 0.18870458006858826}
+{"kind": "codes", "changed_frac": 0.018230125231620594, "changed_frac_nonzero": 0.00024539542064675867, "changed_frac_zero": 0.14040881394550017, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 136, "reward": 0.1875, "entropy": 0.21760839223861694}
+{"kind": "codes", "changed_frac": 0.017049125699333218, "changed_frac_nonzero": 0.00023360046163654956, "changed_frac_zero": 0.13128486041264112, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 137, "reward": 0.40625, "entropy": 0.1241736188530922}
+{"kind": "codes", "changed_frac": 0.015936075287424165, "changed_frac_nonzero": 0.0002244408536201953, "changed_frac_zero": 0.12267256301062023, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 138, "reward": 0.5625, "entropy": 0.1587601900100708}
+{"kind": "codes", "changed_frac": 0.014941316821199634, "changed_frac_nonzero": 0.00021299855715174292, "changed_frac_zero": 0.11499767748801669, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 139, "reward": 0.53125, "entropy": 0.14580458402633667}
+{"kind": "codes", "changed_frac": 0.014052190536107772, "changed_frac_nonzero": 0.0002036914720724722, "changed_frac_zero": 0.10813152751156851, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 140, "reward": 0.53125, "entropy": 0.1715753674507141}
+{"kind": "codes", "changed_frac": 0.013182937007247309, "changed_frac_nonzero": 0.0001942946183462088, "changed_frac_zero": 0.10142086506781459, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 141, "reward": 0.09375, "entropy": 0.2051883190870285}
+{"kind": "codes", "changed_frac": 0.012415688203804658, "changed_frac_nonzero": 0.0001863020027407586, "changed_frac_zero": 0.09549563355332528, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 142, "reward": 0.25, "entropy": 0.17631985247135162}
+{"kind": "codes", "changed_frac": 0.011813105768336482, "changed_frac_nonzero": 0.00018190654506122705, "changed_frac_zero": 0.0908292869512506, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 143, "reward": 0.15625, "entropy": 0.15456539392471313}
+{"kind": "codes", "changed_frac": 0.01123593508542239, "changed_frac_nonzero": 0.00017561632772552976, "changed_frac_zero": 0.08637385802204482, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 144, "reward": 0.34375, "entropy": 0.11784296482801437}
+{"kind": "codes", "changed_frac": 0.01062950441688845, "changed_frac_nonzero": 0.00016719731104686462, "changed_frac_zero": 0.08170485425804427, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 145, "reward": 0.4375, "entropy": 0.15314698219299316}
+{"kind": "codes", "changed_frac": 0.01008426261035514, "changed_frac_nonzero": 0.00016042939626824233, "changed_frac_zero": 0.07750150723154241, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 146, "reward": 0.375, "entropy": 0.19253653287887573}
+{"kind": "codes", "changed_frac": 0.009627790066785429, "changed_frac_nonzero": 0.00015839677761848083, "changed_frac_zero": 0.07395781154314265, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 147, "reward": 0.125, "entropy": 0.1707337647676468}
+{"kind": "codes", "changed_frac": 0.009262615944439674, "changed_frac_nonzero": 0.00015452710772847746, "changed_frac_zero": 0.07113812713949179, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 148, "reward": 0.375, "entropy": 0.2275582104921341}
+{"kind": "codes", "changed_frac": 0.0088686764895261, "changed_frac_nonzero": 0.00014996493684738815, "changed_frac_zero": 0.06809896551676822, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 149, "reward": 0.375, "entropy": 0.1593611240386963}
+{"kind": "codes", "changed_frac": 0.008528204278631525, "changed_frac_nonzero": 0.00014513666604842786, "changed_frac_zero": 0.06547830689736728, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 150, "kl": 0.6390847629970975}
+{"kind": "reward", "t": 150, "reward": 0.5, "entropy": 0.12318049371242523}
+{"kind": "codes", "changed_frac": 0.037641448415679374, "changed_frac_nonzero": 0.00046237585849724574, "changed_frac_zero": 0.2902162927629647, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 151, "reward": 0.1875, "entropy": 0.19593818485736847}
+{"kind": "codes", "changed_frac": 0.03524557260366586, "changed_frac_nonzero": 0.00043491627058682414, "changed_frac_zero": 0.27173065682494546, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 152, "reward": 0.3125, "entropy": 0.20130883157253265}
+{"kind": "codes", "changed_frac": 0.03265850081111922, "changed_frac_nonzero": 0.0004048053015670134, "changed_frac_zero": 0.251772953180001, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 153, "reward": 0.6875, "entropy": 0.1014137789607048}
+{"kind": "codes", "changed_frac": 0.030304111578525642, "changed_frac_nonzero": 0.0003798784719110265, "changed_frac_zero": 0.23359343536385008, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 154, "reward": 0.4375, "entropy": 0.1300288885831833}
+{"kind": "codes", "changed_frac": 0.028060345771985178, "changed_frac_nonzero": 0.00035396418713812077, "changed_frac_zero": 0.2162827659374231, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 155, "reward": 0.25, "entropy": 0.13007178902626038}
+{"kind": "codes", "changed_frac": 0.02602939256381639, "changed_frac_nonzero": 0.00033133607604976637, "changed_frac_zero": 0.2006083201968983, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 156, "reward": 0.4375, "entropy": 0.23369595408439636}
+{"kind": "codes", "changed_frac": 0.024136936620914894, "changed_frac_nonzero": 0.0003136292104304717, "changed_frac_zero": 0.18597981615445114, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 157, "reward": 0.53125, "entropy": 0.15190839767456055}
+{"kind": "codes", "changed_frac": 0.022321051293677025, "changed_frac_nonzero": 0.00029321646130897096, "changed_frac_zero": 0.17196644509784006, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 158, "reward": 0.53125, "entropy": 0.13391618430614471}
+{"kind": "codes", "changed_frac": 0.020701744442894344, "changed_frac_nonzero": 0.0002773017626064219, "changed_frac_zero": 0.15945454476946497, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 159, "reward": 0.46875, "entropy": 0.1886175274848938}
+{"kind": "codes", "changed_frac": 0.019247710399138623, "changed_frac_nonzero": 0.00026262458882312826, "changed_frac_zero": 0.14822228570854823, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 160, "reward": 0.28125, "entropy": 0.11370532959699631}
+{"kind": "codes", "changed_frac": 0.017967439309144632, "changed_frac_nonzero": 0.00024930676883715147, "changed_frac_zero": 0.13833500796244708, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 161, "reward": 0.625, "entropy": 0.09632527083158493}
+{"kind": "codes", "changed_frac": 0.016801366002568395, "changed_frac_nonzero": 0.0002345911227765753, "changed_frac_zero": 0.12934722308828034, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 162, "reward": 0.46875, "entropy": 0.16990335285663605}
+{"kind": "codes", "changed_frac": 0.01519242450867817, "changed_frac_nonzero": 0.00021221308149055746, "changed_frac_zero": 0.11696001335027847, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 163, "reward": 0.25, "entropy": 0.1872013360261917}
+{"kind": "codes", "changed_frac": 0.013725892790071257, "changed_frac_nonzero": 0.00019286473204054063, "changed_frac_zero": 0.10566208754176781, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 164, "reward": 0.5, "entropy": 0.19215670228004456}
+{"kind": "codes", "changed_frac": 0.013004761301117503, "changed_frac_nonzero": 0.000186478334011637, "changed_frac_zero": 0.10008535805986582, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 165, "reward": 0.4375, "entropy": 0.17510773241519928}
+{"kind": "codes", "changed_frac": 0.012517265347770718, "changed_frac_nonzero": 0.00018695282543145512, "changed_frac_zero": 0.09628285044388435, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 166, "reward": 0.375, "entropy": 0.14539305865764618}
+{"kind": "codes", "changed_frac": 0.011901902977800194, "changed_frac_nonzero": 0.000180127202236909, "changed_frac_zero": 0.09153341308158713, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 167, "reward": 0.53125, "entropy": 0.11590957641601562}
+{"kind": "codes", "changed_frac": 0.01121596451644059, "changed_frac_nonzero": 0.00017440765701423627, "changed_frac_zero": 0.08622642909519128, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 168, "reward": 0.46875, "entropy": 0.14703741669654846}
+{"kind": "codes", "changed_frac": 0.010746018965165693, "changed_frac_nonzero": 0.00017048669075452283, "changed_frac_zero": 0.08259056037998636, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 169, "reward": 0.6875, "entropy": 0.1484428495168686}
+{"kind": "codes", "changed_frac": 0.010194394178006239, "changed_frac_nonzero": 0.00016470623109281936, "changed_frac_zero": 0.07833075955256791, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 170, "reward": 0.625, "entropy": 0.14482086896896362}
+{"kind": "codes", "changed_frac": 0.009736949096232543, "changed_frac_nonzero": 0.00016033000955192908, "changed_frac_zero": 0.07479540561021408, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 171, "reward": 0.5, "entropy": 0.13991238176822662}
+{"kind": "codes", "changed_frac": 0.009293971917568108, "changed_frac_nonzero": 0.00015479000162324155, "changed_frac_zero": 0.07138071295531313, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 172, "reward": 0.46875, "entropy": 0.21461014449596405}
+{"kind": "codes", "changed_frac": 0.009011385292360634, "changed_frac_nonzero": 0.0001534017936179628, "changed_frac_zero": 0.06918781384594372, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 173, "reward": 0.65625, "entropy": 0.21488942205905914}
+{"kind": "codes", "changed_frac": 0.008621327606312958, "changed_frac_nonzero": 0.00014962509839805893, "changed_frac_zero": 0.06617356856127903, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 174, "reward": 0.40625, "entropy": 0.1089506521821022}
+{"kind": "codes", "changed_frac": 0.008296754159333505, "changed_frac_nonzero": 0.0001461850356043774, "changed_frac_zero": 0.06366738570484781, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 175, "reward": 0.5, "entropy": 0.14508605003356934}
+{"kind": "codes", "changed_frac": 0.03475618187761132, "changed_frac_nonzero": 0.0004389718898170265, "changed_frac_zero": 0.26788905408062863, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 176, "reward": 0.875, "entropy": 0.0823826789855957}
+{"kind": "codes", "changed_frac": 0.03253511980776385, "changed_frac_nonzero": 0.0004158500511702127, "changed_frac_zero": 0.25073635510869546, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 177, "reward": 0.625, "entropy": 0.11754222214221954}
+{"kind": "codes", "changed_frac": 0.030273557669950494, "changed_frac_nonzero": 0.00039024995666178116, "changed_frac_zero": 0.233284856100198, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 178, "reward": 0.25, "entropy": 0.16105163097381592}
+{"kind": "codes", "changed_frac": 0.028106197594722986, "changed_frac_nonzero": 0.00036297631809155856, "changed_frac_zero": 0.21657888703204575, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 179, "reward": 0.875, "entropy": 0.08003201335668564}
+{"kind": "codes", "changed_frac": 0.02597667987530048, "changed_frac_nonzero": 0.00033982241921367597, "changed_frac_zero": 0.20013985383736327, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 180, "reward": 0.0625, "entropy": 0.16608305275440216}
+{"kind": "codes", "changed_frac": 0.02410596910413805, "changed_frac_nonzero": 0.00032008293494461984, "changed_frac_zero": 0.18569462862775293, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 181, "reward": 0.46875, "entropy": 0.18824879825115204}
+{"kind": "codes", "changed_frac": 0.022346608368031706, "changed_frac_nonzero": 0.0003001575013353647, "changed_frac_zero": 0.1721184696080244, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 182, "reward": 0.5625, "entropy": 0.14153628051280975}
+{"kind": "codes", "changed_frac": 0.020671036828568568, "changed_frac_nonzero": 0.00028111372408050144, "changed_frac_zero": 0.15918932951724224, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 183, "reward": 0.53125, "entropy": 0.16072282195091248}
+{"kind": "codes", "changed_frac": 0.019278770139365842, "changed_frac_nonzero": 0.0002676067487312188, "changed_frac_zero": 0.14843050265945973, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 184, "reward": 0.5625, "entropy": 0.15507353842258453}
+{"kind": "codes", "changed_frac": 0.017934783823760875, "changed_frac_nonzero": 0.00025150289466536384, "changed_frac_zero": 0.1380655891671777, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 185, "reward": 0.875, "entropy": 0.09433584660291672}
+{"kind": "codes", "changed_frac": 0.01663391616318252, "changed_frac_nonzero": 0.00023907955512620638, "changed_frac_zero": 0.12801171608033157, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 186, "reward": 0.28125, "entropy": 0.2545495927333832}
+{"kind": "codes", "changed_frac": 0.015557137513772036, "changed_frac_nonzero": 0.00022685178299656854, "changed_frac_zero": 0.11970294497830046, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 187, "reward": 0.28125, "entropy": 0.17224696278572083}
+{"kind": "codes", "changed_frac": 0.014514107057899782, "changed_frac_nonzero": 0.00021689708124970818, "changed_frac_zero": 0.11164174731570561, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 188, "reward": 0.28125, "entropy": 0.1321163773536682}
+{"kind": "codes", "changed_frac": 0.013630276634579613, "changed_frac_nonzero": 0.000204945027107262, "changed_frac_zero": 0.1048348389821946, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 189, "reward": 0.25, "entropy": 0.1464172601699829}
+{"kind": "codes", "changed_frac": 0.0128083253518129, "changed_frac_nonzero": 0.00019630158881111528, "changed_frac_zero": 0.09848770678192012, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 190, "reward": 0.6875, "entropy": 0.10302700102329254}
+{"kind": "codes", "changed_frac": 0.012052579327817364, "changed_frac_nonzero": 0.0001894086391313247, "changed_frac_zero": 0.09264465126699034, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 191, "reward": 0.34375, "entropy": 0.12537699937820435}
+{"kind": "codes", "changed_frac": 0.011304513002053285, "changed_frac_nonzero": 0.00017976492162583165, "changed_frac_zero": 0.08688013448898388, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 192, "reward": 0.5625, "entropy": 0.21978174149990082}
+{"kind": "codes", "changed_frac": 0.010729798816499256, "changed_frac_nonzero": 0.000173484322359455, "changed_frac_zero": 0.08244378485360639, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 193, "reward": 0.25, "entropy": 0.14254215359687805}
+{"kind": "codes", "changed_frac": 0.010192686646849244, "changed_frac_nonzero": 0.00016750508926512503, "changed_frac_zero": 0.0782984380091419, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 194, "reward": 0.21875, "entropy": 0.1729675978422165}
+{"kind": "codes", "changed_frac": 0.009710782788175366, "changed_frac_nonzero": 0.00016293650633782196, "changed_frac_zero": 0.0745737721695786, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 195, "reward": 0.375, "entropy": 0.1479329615831375}
+{"kind": "codes", "changed_frac": 0.009335936382139996, "changed_frac_nonzero": 0.0001596888049305532, "changed_frac_zero": 0.07167448180823092, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 196, "reward": 0.4375, "entropy": 0.16309472918510437}
+{"kind": "codes", "changed_frac": 0.008920972775190305, "changed_frac_nonzero": 0.00015463611251411135, "changed_frac_zero": 0.06847480146916661, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 197, "reward": 0.625, "entropy": 0.1466037482023239}
+{"kind": "codes", "changed_frac": 0.00854897970681662, "changed_frac_nonzero": 0.00014998417298602942, "changed_frac_zero": 0.0656072881508503, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 198, "reward": 0.75, "entropy": 0.12539561092853546}
+{"kind": "codes", "changed_frac": 0.008117183922847986, "changed_frac_nonzero": 0.0001456752779303836, "changed_frac_zero": 0.06227137381304631, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 199, "reward": 0.125, "entropy": 0.2338680475950241}
+{"kind": "codes", "changed_frac": 0.007759669936183608, "changed_frac_nonzero": 0.00013950688947274772, "changed_frac_zero": 0.05952700470398247, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 200, "kl": 0.7222508721881442}
+{"kind": "reward", "t": 200, "reward": 0.84375, "entropy": 0.11701653897762299}
+{"kind": "codes", "changed_frac": 0.03147578815837483, "changed_frac_nonzero": 0.0004052028484322664, "changed_frac_zero": 0.24255281909743223, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 201, "reward": 0.4375, "entropy": 0.15249358117580414}
+{"kind": "codes", "changed_frac": 0.029431157933050022, "changed_frac_nonzero": 0.0003829434300012031, "changed_frac_zero": 0.22676927725783677, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 202, "reward": 0.3125, "entropy": 0.16146712005138397}
+{"kind": "codes", "changed_frac": 0.027493154784261963, "changed_frac_nonzero": 0.00035726959696131335, "changed_frac_zero": 0.21183992585734146, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 203, "reward": 0.09375, "entropy": 0.16011881828308105}
+{"kind": "codes", "changed_frac": 0.025661907265911173, "changed_frac_nonzero": 0.0003400756950391194, "changed_frac_zero": 0.19768496291810742, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 204, "reward": 0.21875, "entropy": 0.15920661389827728}
+{"kind": "codes", "changed_frac": 0.023886449345738896, "changed_frac_nonzero": 0.0003181849692653473, "changed_frac_zero": 0.1839967021571298, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 205, "reward": 0.65625, "entropy": 0.14463990926742554}
+{"kind": "codes", "changed_frac": 0.021638919145633012, "changed_frac_nonzero": 0.00028703524875890756, "changed_frac_zero": 0.1666922618152175, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 206, "reward": 0.25, "entropy": 0.1535646766424179}
+{"kind": "codes", "changed_frac": 0.020310247512090773, "changed_frac_nonzero": 0.00027318202291408194, "changed_frac_zero": 0.15643141323835968, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 207, "reward": 0.625, "entropy": 0.1276760697364807}
+{"kind": "codes", "changed_frac": 0.01893077193599044, "changed_frac_nonzero": 0.00025835737206787187, "changed_frac_zero": 0.14578122509931632, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 208, "reward": 0.25, "entropy": 0.19239188730716705}
+{"kind": "codes", "changed_frac": 0.017669588305574635, "changed_frac_nonzero": 0.0002463989058792119, "changed_frac_zero": 0.13603347013433847, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 209, "reward": 0.53125, "entropy": 0.11175909638404846}
+{"kind": "codes", "changed_frac": 0.016523119468828697, "changed_frac_nonzero": 0.0002346969215391023, "changed_frac_zero": 0.12717799885607, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 210, "reward": 0.71875, "entropy": 0.11832010746002197}
+{"kind": "codes", "changed_frac": 0.015484750489175539, "changed_frac_nonzero": 0.00022374514660600248, "changed_frac_zero": 0.11915990384471511, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 211, "reward": 0.125, "entropy": 0.16137224435806274}
+{"kind": "codes", "changed_frac": 0.014473570659483745, "changed_frac_nonzero": 0.00021055556754430085, "changed_frac_zero": 0.1113689090579579, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 212, "reward": 0.5625, "entropy": 0.1535702496767044}
+{"kind": "codes", "changed_frac": 0.01364873529790522, "changed_frac_nonzero": 0.00020277775548701156, "changed_frac_zero": 0.10499341927713042, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 213, "reward": 0.25, "entropy": 0.238610178232193}
+{"kind": "codes", "changed_frac": 0.012887699001438015, "changed_frac_nonzero": 0.0001958976298996485, "changed_frac_zero": 0.09910904707225514, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 214, "reward": 0.53125, "entropy": 0.1959020495414734}
+{"kind": "codes", "changed_frac": 0.012133939973600618, "changed_frac_nonzero": 0.00018629238467143797, "changed_frac_zero": 0.09329990304190372, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 215, "reward": 0.1875, "entropy": 0.24250634014606476}
+{"kind": "codes", "changed_frac": 0.011474114721947974, "changed_frac_nonzero": 0.00018114671758489664, "changed_frac_zero": 0.088192532900184, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 216, "reward": 0.15625, "entropy": 0.14567331969738007}
+{"kind": "codes", "changed_frac": 0.010852841667203239, "changed_frac_nonzero": 0.00017354844282159259, "changed_frac_zero": 0.08340227978830435, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 217, "reward": 0.25, "entropy": 0.2533942461013794}
+{"kind": "codes", "changed_frac": 0.010327933734153217, "changed_frac_nonzero": 0.00016889970931661754, "changed_frac_zero": 0.07934300756622502, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 218, "reward": 0.125, "entropy": 0.17091257870197296}
+{"kind": "codes", "changed_frac": 0.009845202659075951, "changed_frac_nonzero": 0.0001624363667331488, "changed_frac_zero": 0.07562476683131851, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 219, "reward": 0.78125, "entropy": 0.12196563184261322}
+{"kind": "codes", "changed_frac": 0.009333113785628434, "changed_frac_nonzero": 0.00015621668190580286, "changed_frac_zero": 0.07167607174938329, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 220, "reward": 0.84375, "entropy": 0.12105877697467804}
+{"kind": "codes", "changed_frac": 0.008991839510180575, "changed_frac_nonzero": 0.00015126658222878116, "changed_frac_zero": 0.06904998990605168, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 221, "reward": 0.65625, "entropy": 0.1029001921415329}
+{"kind": "codes", "changed_frac": 0.008596335051260588, "changed_frac_nonzero": 0.00014724622925275447, "changed_frac_zero": 0.06599495065182033, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 222, "reward": 0.1875, "entropy": 0.1537473499774933}
+{"kind": "codes", "changed_frac": 0.008233824230375743, "changed_frac_nonzero": 0.0001422127729749539, "changed_frac_zero": 0.06320392874894348, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 223, "reward": 0.28125, "entropy": 0.17254719138145447}
+{"kind": "codes", "changed_frac": 0.007901763916015625, "changed_frac_nonzero": 0.00013773075267153659, "changed_frac_zero": 0.06064647573535269, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 224, "reward": 0.1875, "entropy": 0.14990048110485077}
+{"kind": "codes", "changed_frac": 0.007673860207582131, "changed_frac_nonzero": 0.0001374325925225968, "changed_frac_zero": 0.0588723409894953, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 225, "reward": 0.40625, "entropy": 0.16332390904426575}
+{"kind": "codes", "changed_frac": 0.03423071780920902, "changed_frac_nonzero": 0.0004525526036977674, "changed_frac_zero": 0.26370160646565033, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 226, "reward": 0.0625, "entropy": 0.2409825176000595}
+{"kind": "codes", "changed_frac": 0.03205899807996366, "changed_frac_nonzero": 0.00042572460233940106, "changed_frac_zero": 0.24695863315067815, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 227, "reward": 0.375, "entropy": 0.1610172539949417}
+{"kind": "codes", "changed_frac": 0.029823026552305117, "changed_frac_nonzero": 0.00039974619710435777, "changed_frac_zero": 0.22970914378859322, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 228, "reward": 0.4375, "entropy": 0.25261715054512024}
+{"kind": "codes", "changed_frac": 0.027676243485111895, "changed_frac_nonzero": 0.000375851706888786, "changed_frac_zero": 0.2131405848400331, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 229, "reward": 0.46875, "entropy": 0.1160627231001854}
+{"kind": "codes", "changed_frac": 0.02567281478490585, "changed_frac_nonzero": 0.000354595773690176, "changed_frac_zero": 0.19767132862822556, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 230, "reward": 0.40625, "entropy": 0.15482211112976074}
+{"kind": "codes", "changed_frac": 0.023237467336130666, "changed_frac_nonzero": 0.00032091008890619473, "changed_frac_zero": 0.17892036853790472, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 231, "reward": 0.5, "entropy": 0.20600739121437073}
+{"kind": "codes", "changed_frac": 0.021655072222699176, "changed_frac_nonzero": 0.00030331222807253403, "changed_frac_zero": 0.16670757316631488, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 232, "reward": 0.59375, "entropy": 0.15050087869167328}
+{"kind": "codes", "changed_frac": 0.020139251261840373, "changed_frac_nonzero": 0.00028829521583991115, "changed_frac_zero": 0.15499608841806498, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 233, "reward": 0.0625, "entropy": 0.20506951212882996}
+{"kind": "codes", "changed_frac": 0.018740663074311756, "changed_frac_nonzero": 0.0002749741898308275, "changed_frac_zero": 0.14418673192365955, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 234, "reward": 0.4375, "entropy": 0.17373740673065186}
+{"kind": "codes", "changed_frac": 0.017484820020067824, "changed_frac_nonzero": 0.0002597295499576162, "changed_frac_zero": 0.1345029230850286, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 235, "reward": 0.34375, "entropy": 0.1695893257856369}
+{"kind": "codes", "changed_frac": 0.016304513560983287, "changed_frac_nonzero": 0.00024743765736584083, "changed_frac_zero": 0.1253877468985312, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 236, "reward": 0.21875, "entropy": 0.1949823796749115}
+{"kind": "codes", "changed_frac": 0.01527188479245364, "changed_frac_nonzero": 0.00023762722665879, "changed_frac_zero": 0.11740663435398045, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 237, "reward": 0.34375, "entropy": 0.17903956770896912}
+{"kind": "codes", "changed_frac": 0.013800412132626488, "changed_frac_nonzero": 0.00021445409164226614, "changed_frac_zero": 0.106096185036393, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 238, "reward": 0.25, "entropy": 0.2433454841375351}
+{"kind": "codes", "changed_frac": 0.01300784659473014, "changed_frac_nonzero": 0.00020714435895858124, "changed_frac_zero": 0.0999690092155385, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 239, "reward": 0.65625, "entropy": 0.13828112185001373}
+{"kind": "codes", "changed_frac": 0.012385469653230884, "changed_frac_nonzero": 0.00020112344756386183, "changed_frac_zero": 0.09515943722965692, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 240, "reward": 0.5, "entropy": 0.13453011214733124}
+{"kind": "codes", "changed_frac": 0.011696417951758529, "changed_frac_nonzero": 0.00019586236364547283, "changed_frac_zero": 0.08982507576341842, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 241, "reward": 0.5, "entropy": 0.1301412582397461}
+{"kind": "codes", "changed_frac": 0.011114605355175423, "changed_frac_nonzero": 0.00018957535233288242, "changed_frac_zero": 0.08533344844797677, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 242, "reward": 0.5625, "entropy": 0.16252565383911133}
+{"kind": "codes", "changed_frac": 0.010049586593013107, "changed_frac_nonzero": 0.0001718396325056259, "changed_frac_zero": 0.07715374571949182, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 243, "reward": 0.0, "entropy": 0.21679119765758514}
+{"kind": "codes", "changed_frac": 0.009564049689324347, "changed_frac_nonzero": 0.00016645351368606862, "changed_frac_zero": 0.07340631976343244, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 244, "reward": 0.03125, "entropy": 0.2866540849208832}
+{"kind": "codes", "changed_frac": 0.00916091583587311, "changed_frac_nonzero": 0.0001630583352158834, "changed_frac_zero": 0.07028757396302786, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 245, "reward": 0.375, "entropy": 0.14106573164463043}
+{"kind": "codes", "changed_frac": 0.008725956508091519, "changed_frac_nonzero": 0.00015943552910510972, "changed_frac_zero": 0.06692234372397629, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 246, "reward": 0.3125, "entropy": 0.19014088809490204}
+{"kind": "codes", "changed_frac": 0.008371035956637763, "changed_frac_nonzero": 0.0001547194691148902, "changed_frac_zero": 0.06418832012241066, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 247, "reward": 0.59375, "entropy": 0.13016413152217865}
+{"kind": "codes", "changed_frac": 0.008037405048971212, "changed_frac_nonzero": 0.00015142688338412512, "changed_frac_zero": 0.061610546354091786, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 248, "reward": 0.40625, "entropy": 0.12254807353019714}
+{"kind": "codes", "changed_frac": 0.007868826170980711, "changed_frac_nonzero": 0.00015152627010043838, "changed_frac_zero": 0.06029605706137624, "zero_frac": 0.12831257970341833}
+{"kind": "reward", "t": 249, "reward": 0.71875, "entropy": 0.09634721279144287}
+{"kind": "codes", "changed_frac": 0.00763488042922247, "changed_frac_nonzero": 0.00014943273701164617, "changed_frac_zero": 0.058487030730230136, "zero_frac": 0.12831257970341833}
+{"kind": "kl0", "t": 250, "kl": 0.7401631275812784}
+{"kind": "reward", "t": 250, "reward": 0.40625, "entropy": 0.19191765785217285}
+{"kind": "heldout", "n": 300, "max_new_tokens": 512, "acc": 0.39, "sample_tails": ["mine the revenue from selling all the eggs:\n   \\[\n   7 \\text{ eggs} \\times 2 \\text{ dollars per egg} = 14 \\text{ dollars}\n   \\]\n\nTherefore, the amount of money Janet makes every day is \\(\\boxed{14}\\).", " 3 \\) bolts\n\n2. Since there are two types of bolts, we multiply the number of bolts per type by 2:\n   - Total bolts: \\( 3 \\times 2 = 6 \\)\n\nTherefore, the total number of bolts needed is \\(\\boxed{6}\\)."]}
+{"kind": "meta", "arm": "fisher", "frac": 0.2, "refresh": 25, "N": 357826560}
+{"kind": "select", "t": 1, "kept_frac": 0.20000071543040293, "energy_captured": 0.8255820387005753, "per_layer_kept": {"0": 0.022974258814102564, "1": 0.02019910428113553, "2": 0.020020604395604397, "3": 0.018627303685897437, "4": 0.016454899267399268, "5": 0.019306247138278387, "6": 0.01403495592948718, "7": 0.01171731913919414, "8": 0.007507011217948718, "9": 0.005233015682234432, "10": 0.005112107944139194, "11": 0.004860634157509158, "12": 0.004663175366300366, "13": 0.004058636675824176, "14": 0.00447430173992674, "15": 0.004058278960622711, "16": 0.0029922876602564105, "17": 0.002071886446886447, "18": 0.0016150841346153845, "19": 0.0019856770833333332, "20": 0.0016100761217948717, "21": 0.0012008499313186814, "22": 0.0010616987179487179, "23": 0.004161300938644689}}
+{"kind": "reward", "t": 1, "reward": 0.125}
+{"kind": "reward", "t": 2, "reward": 0.09375}
+{"kind": "reward", "t": 3, "reward": 0.125}
+{"kind": "reward", "t": 4, "reward": 0.1875}
+{"kind": "reward", "t": 5, "reward": 0.0625}
+{"kind": "reward", "t": 6, "reward": 0.15625}
+{"kind": "reward", "t": 7, "reward": 0.03125}
+{"kind": "reward", "t": 8, "reward": 0.0625}
+{"kind": "reward", "t": 9, "reward": 0.09375}
+{"kind": "reward", "t": 10, "reward": 0.4375}
+{"kind": "reward", "t": 11, "reward": 0.03125}
+{"kind": "reward", "t": 12, "reward": 0.375}
+{"kind": "reward", "t": 13, "reward": 0.5625}
+{"kind": "reward", "t": 14, "reward": 0.5}
+{"kind": "reward", "t": 15, "reward": 0.0625}
+{"kind": "reward", "t": 16, "reward": 0.03125}
+{"kind": "reward", "t": 17, "reward": 0.0}
+{"kind": "reward", "t": 18, "reward": 0.125}
+{"kind": "reward", "t": 19, "reward": 0.09375}
+{"kind": "reward", "t": 20, "reward": 0.09375}
+{"kind": "reward", "t": 21, "reward": 0.3125}
+{"kind": "reward", "t": 22, "reward": 0.125}
+{"kind": "reward", "t": 23, "reward": 0.15625}
+{"kind": "reward", "t": 24, "reward": 0.34375}
+{"kind": "reward", "t": 25, "reward": 0.0625}
+{"kind": "select", "t": 26, "kept_frac": 0.20000357715201464, "energy_captured": 0.790567928035228, "per_layer_kept": {"0": 0.005395776098901099, "1": 0.004443180517399267, "2": 0.005698760874542124, "3": 0.007459077380952381, "4": 0.007596440018315018, "5": 0.010832689445970696, "6": 0.011377847413003662, "7": 0.012686011904761905, "8": 0.009851834363553113, "9": 0.011851104624542124, "10": 0.01138321314102564, "11": 0.014390524839743589, "12": 0.013287331158424908, "13": 0.01263414320054945, "14": 0.01122152586996337, "15": 0.012317207532051282, "16": 0.008071485805860807, "17": 0.005326021634615385, "18": 0.00461595695970696, "19": 0.0050555889423076926, "20": 0.003322101076007326, "21": 0.0018425910027472527, "22": 0.0017145289606227106, "23": 0.007628634386446886}}
+{"kind": "reward", "t": 26, "reward": 0.28125}
+{"kind": "reward", "t": 27, "reward": 0.3125}
+{"kind": "reward", "t": 28, "reward": 0.03125}
+{"kind": "reward", "t": 29, "reward": 0.25}
+{"kind": "reward", "t": 30, "reward": 0.28125}
+{"kind": "reward", "t": 31, "reward": 0.21875}
+{"kind": "reward", "t": 32, "reward": 0.1875}
+{"kind": "reward", "t": 33, "reward": 0.21875}
+{"kind": "reward", "t": 34, "reward": 0.1875}
+{"kind": "reward", "t": 35, "reward": 0.03125}
+{"kind": "reward", "t": 36, "reward": 0.09375}
+{"kind": "reward", "t": 37, "reward": 0.125}
+{"kind": "reward", "t": 38, "reward": 0.15625}
+{"kind": "reward", "t": 39, "reward": 0.375}
+{"kind": "reward", "t": 40, "reward": 0.15625}
+{"kind": "reward", "t": 41, "reward": 0.09375}
+{"kind": "reward", "t": 42, "reward": 0.0625}
+{"kind": "reward", "t": 43, "reward": 0.15625}
+{"kind": "reward", "t": 44, "reward": 0.34375}
+{"kind": "reward", "t": 45, "reward": 0.3125}
+{"kind": "reward", "t": 46, "reward": 0.09375}
+{"kind": "reward", "t": 47, "reward": 0.125}
+{"kind": "reward", "t": 48, "reward": 0.1875}
+{"kind": "reward", "t": 49, "reward": 0.21875}
+{"kind": "reward", "t": 50, "reward": 0.3125}
+{"kind": "select", "t": 51, "kept_frac": 0.20000465029761905, "energy_captured": 0.80952218372826, "per_layer_kept": {"0": 0.005844708676739927, "1": 0.004362336881868132, "2": 0.005164692078754579, "3": 0.005865456158424908, "4": 0.007153588598901099, "5": 0.009553499885531136, "6": 0.009523809523809525, "7": 0.012308622367216117, "8": 0.011670458447802198, "9": 0.014633413461538462, "10": 0.012853780334249084, "11": 0.015444711538461539, "12": 0.015488352793040294, "13": 0.014954641712454213, "14": 0.01113352793040293, "15": 0.013478708791208792, "16": 0.007039119734432235, "17": 0.003773179945054945, "18": 0.003302784455128205, "19": 0.003655849358974359, "20": 0.002759057348901099, "21": 0.001365398923992674, "22": 0.0015210050366300366, "23": 0.007153946314102564}}
+{"kind": "reward", "t": 51, "reward": 0.21875}
+{"kind": "reward", "t": 52, "reward": 0.28125}
+{"kind": "reward", "t": 53, "reward": 0.34375}
+{"kind": "reward", "t": 54, "reward": 0.09375}
+{"kind": "reward", "t": 55, "reward": 0.1875}
+{"kind": "reward", "t": 56, "reward": 0.40625}
+{"kind": "reward", "t": 57, "reward": 0.21875}
+{"kind": "reward", "t": 58, "reward": 0.09375}
+{"kind": "reward", "t": 59, "reward": 0.40625}
+{"kind": "reward", "t": 60, "reward": 0.46875}
+{"kind": "reward", "t": 61, "reward": 0.59375}
+{"kind": "reward", "t": 62, "reward": 0.0625}
+{"kind": "reward", "t": 63, "reward": 0.3125}
+{"kind": "reward", "t": 64, "reward": 0.40625}
+{"kind": "reward", "t": 65, "reward": 0.28125}
+{"kind": "reward", "t": 66, "reward": 0.25}
+{"kind": "reward", "t": 67, "reward": 0.375}
+{"kind": "reward", "t": 68, "reward": 0.375}
+{"kind": "reward", "t": 69, "reward": 0.25}
+{"kind": "reward", "t": 70, "reward": 0.71875}
+{"kind": "reward", "t": 71, "reward": 0.375}
+{"kind": "reward", "t": 72, "reward": 0.34375}
+{"kind": "reward", "t": 73, "reward": 0.6875}
+{"kind": "reward", "t": 74, "reward": 0.5625}
+{"kind": "reward", "t": 75, "reward": 0.46875}
+{"kind": "select", "t": 76, "kept_frac": 0.20000357715201464, "energy_captured": 0.8085018361179044, "per_layer_kept": {"0": 0.004317264766483517, "1": 0.0034526671245421244, "2": 0.004220323946886447, "3": 0.005151814331501831, "4": 0.005524911286630037, "5": 0.008811240842490842, "6": 0.009902272206959706, "7": 0.01266025641025641, "8": 0.01196092319139194, "9": 0.015089858058608059, "10": 0.013400726877289377, "11": 0.016452752976190477, "12": 0.015408940018315019, "13": 0.01551625457875458, "14": 0.01372553228021978, "15": 0.011946614583333333, "16": 0.007595009157509157, "17": 0.004802684294871795, "18": 0.004194568452380952, "19": 0.004761904761904762, "20": 0.002975832760989011, "21": 0.0017202524038461538, "22": 0.001433007097069597, "23": 0.004977964743589743}}
+{"kind": "reward", "t": 76, "reward": 0.25}
+{"kind": "reward", "t": 77, "reward": 0.5625}
+{"kind": "reward", "t": 78, "reward": 0.28125}
+{"kind": "reward", "t": 79, "reward": 0.65625}
+{"kind": "reward", "t": 80, "reward": 0.46875}
+{"kind": "reward", "t": 81, "reward": 0.28125}
+{"kind": "reward", "t": 82, "reward": 0.4375}
+{"kind": "reward", "t": 83, "reward": 0.0625}
+{"kind": "reward", "t": 84, "reward": 0.3125}
+{"kind": "reward", "t": 85, "reward": 0.53125}
+{"kind": "reward", "t": 86, "reward": 0.4375}
+{"kind": "reward", "t": 87, "reward": 0.03125}
+{"kind": "reward", "t": 88, "reward": 0.6875}
+{"kind": "reward", "t": 89, "reward": 0.46875}
+{"kind": "reward", "t": 90, "reward": 0.1875}
+{"kind": "reward", "t": 91, "reward": 0.5}
+{"kind": "reward", "t": 92, "reward": 0.1875}
+{"kind": "reward", "t": 93, "reward": 0.4375}
+{"kind": "reward", "t": 94, "reward": 0.5625}
+{"kind": "reward", "t": 95, "reward": 0.3125}
+{"kind": "reward", "t": 96, "reward": 0.59375}
+{"kind": "reward", "t": 97, "reward": 0.3125}
+{"kind": "reward", "t": 98, "reward": 0.75}
+{"kind": "reward", "t": 99, "reward": 0.15625}
+{"kind": "reward", "t": 100, "reward": 0.3125}
+{"kind": "select", "t": 101, "kept_frac": 0.20000143086080585, "energy_captured": 0.7868290525189757, "per_layer_kept": {"0": 0.014385874542124541, "1": 0.00806003891941392, "2": 0.011297719207875458, "3": 0.00545157967032967, "4": 0.005144660027472527, "5": 0.006430288461538461, "6": 0.0074522807921245425, "7": 0.009125672504578755, "8": 0.009126387934981686, "9": 0.011616443452380953, "10": 0.01122081043956044, "11": 0.014020289606227107, "12": 0.013784197573260073, "13": 0.014438458676739927, "14": 0.013903316735347985, "15": 0.012009214743589744, "16": 0.00806826636904762, "17": 0.0042739812271062275, "18": 0.0030656192765567765, "19": 0.003993174793956044, "20": 0.002743675595238095, "21": 0.001825062957875458, "22": 0.002046846382783883, "23": 0.006517570970695971}}
+{"kind": "reward", "t": 101, "reward": 0.03125}
+{"kind": "reward", "t": 102, "reward": 0.5}
+{"kind": "reward", "t": 103, "reward": 0.71875}
+{"kind": "reward", "t": 104, "reward": 0.5}
+{"kind": "reward", "t": 105, "reward": 0.34375}
+{"kind": "reward", "t": 106, "reward": 0.15625}
+{"kind": "reward", "t": 107, "reward": 0.1875}
+{"kind": "reward", "t": 108, "reward": 0.4375}
+{"kind": "reward", "t": 109, "reward": 0.3125}
+{"kind": "reward", "t": 110, "reward": 0.375}
+{"kind": "reward", "t": 111, "reward": 0.21875}
+{"kind": "reward", "t": 112, "reward": 0.15625}
+{"kind": "reward", "t": 113, "reward": 0.15625}
+{"kind": "reward", "t": 114, "reward": 0.28125}
+{"kind": "reward", "t": 115, "reward": 0.65625}
+{"kind": "reward", "t": 116, "reward": 0.25}
+{"kind": "reward", "t": 117, "reward": 0.28125}
+{"kind": "reward", "t": 118, "reward": 0.59375}
+{"kind": "reward", "t": 119, "reward": 0.53125}
+{"kind": "reward", "t": 120, "reward": 0.53125}
+{"kind": "reward", "t": 121, "reward": 0.375}
+{"kind": "reward", "t": 122, "reward": 0.40625}
+{"kind": "reward", "t": 123, "reward": 0.09375}
+{"kind": "reward", "t": 124, "reward": 0.0625}
+{"kind": "reward", "t": 125, "reward": 0.375}
+{"kind": "select", "t": 126, "kept_frac": 0.20000608115842491, "energy_captured": 0.8070586758431342, "per_layer_kept": {"0": 0.003654418498168498, "1": 0.002951150412087912, "2": 0.003634028731684982, "3": 0.004201722756410256, "4": 0.0057763850732600736, "5": 0.009159297733516484, "6": 0.010180216918498169, "7": 0.012994362408424909, "8": 0.011091675251831502, "9": 0.014032094207875458, "10": 0.013822830815018314, "11": 0.016809037316849816, "12": 0.016794013278388278, "13": 0.015232586423992674, "14": 0.012890625, "15": 0.01244777358058608, "16": 0.00833512190934066, "17": 0.005403288118131868, "18": 0.004072945283882784, "19": 0.004584835737179487, "20": 0.0038221869276556775, "21": 0.0018543956043956043, "22": 0.0014905992445054944, "23": 0.004770489926739927}}
+{"kind": "reward", "t": 126, "reward": 0.125}
+{"kind": "reward", "t": 127, "reward": 0.78125}
+{"kind": "reward", "t": 128, "reward": 0.34375}
+{"kind": "reward", "t": 129, "reward": 0.40625}
+{"kind": "reward", "t": 130, "reward": 0.75}
+{"kind": "reward", "t": 131, "reward": 0.53125}
+{"kind": "reward", "t": 132, "reward": 0.5}
+{"kind": "reward", "t": 133, "reward": 0.28125}
+{"kind": "reward", "t": 134, "reward": 0.3125}
+{"kind": "reward", "t": 135, "reward": 0.46875}
+{"kind": "reward", "t": 136, "reward": 0.1875}
+{"kind": "reward", "t": 137, "reward": 0.40625}
+{"kind": "reward", "t": 138, "reward": 0.5625}
+{"kind": "reward", "t": 139, "reward": 0.53125}
+{"kind": "reward", "t": 140, "reward": 0.53125}
+{"kind": "reward", "t": 141, "reward": 0.09375}
+{"kind": "reward", "t": 142, "reward": 0.25}
+{"kind": "reward", "t": 143, "reward": 0.15625}
+{"kind": "reward", "t": 144, "reward": 0.34375}
+{"kind": "reward", "t": 145, "reward": 0.4375}
+{"kind": "reward", "t": 146, "reward": 0.375}
+{"kind": "reward", "t": 147, "reward": 0.125}
+{"kind": "reward", "t": 148, "reward": 0.375}
+{"kind": "reward", "t": 149, "reward": 0.375}
+{"kind": "reward", "t": 150, "reward": 0.5}
+{"kind": "select", "t": 151, "kept_frac": 0.2000010731456044, "energy_captured": 0.8041773238353912, "per_layer_kept": {"0": 0.003753147893772894, "1": 0.002930045215201465, "2": 0.0035964686355311353, "3": 0.003769602793040293, "4": 0.0049872653388278385, "5": 0.007938773466117216, "6": 0.008937872023809523, "7": 0.01184251945970696, "8": 0.01073324461996337, "9": 0.01217125972985348, "10": 0.013231169871794872, "11": 0.015077338026556777, "12": 0.015563472985347986, "13": 0.015532351762820513, "14": 0.0132000486492674, "15": 0.016905978136446887, "16": 0.009546345581501832, "17": 0.00562900641025641, "18": 0.004453554258241758, "19": 0.00562006353021978, "20": 0.003662645947802198, "21": 0.002160957532051282, "22": 0.0022539634844322342, "23": 0.006503977793040293}}
+{"kind": "reward", "t": 151, "reward": 0.1875}
+{"kind": "reward", "t": 152, "reward": 0.3125}
+{"kind": "reward", "t": 153, "reward": 0.6875}
+{"kind": "reward", "t": 154, "reward": 0.4375}
+{"kind": "reward", "t": 155, "reward": 0.25}
+{"kind": "reward", "t": 156, "reward": 0.4375}
+{"kind": "reward", "t": 157, "reward": 0.53125}
+{"kind": "reward", "t": 158, "reward": 0.53125}
+{"kind": "reward", "t": 159, "reward": 0.46875}
+{"kind": "reward", "t": 160, "reward": 0.28125}
+{"kind": "reward", "t": 161, "reward": 0.625}
+{"kind": "reward", "t": 162, "reward": 0.46875}
+{"kind": "reward", "t": 163, "reward": 0.25}
+{"kind": "reward", "t": 164, "reward": 0.5}
+{"kind": "reward", "t": 165, "reward": 0.4375}
+{"kind": "reward", "t": 166, "reward": 0.375}
+{"kind": "reward", "t": 167, "reward": 0.53125}
+{"kind": "reward", "t": 168, "reward": 0.46875}
+{"kind": "reward", "t": 169, "reward": 0.6875}
+{"kind": "reward", "t": 170, "reward": 0.625}
+{"kind": "reward", "t": 171, "reward": 0.5}
+{"kind": "reward", "t": 172, "reward": 0.46875}
+{"kind": "reward", "t": 173, "reward": 0.65625}
+{"kind": "reward", "t": 174, "reward": 0.40625}
+{"kind": "reward", "t": 175, "reward": 0.5}
+{"kind": "select", "t": 176, "kept_frac": 0.20000035771520147, "energy_captured": 0.8081881669921305, "per_layer_kept": {"0": 0.003958834134615384, "1": 0.0032426883012820515, "2": 0.003637963598901099, "3": 0.004149854052197802, "4": 0.005283811240842491, "5": 0.008137305402930404, "6": 0.008738982371794872, "7": 0.013354581616300366, "8": 0.011382855425824175, "9": 0.015940147092490843, "10": 0.015142442193223443, "11": 0.017398909684065933, "12": 0.01685518257783883, "13": 0.016195198031135533, "14": 0.014677770146520146, "15": 0.013907609317765567, "16": 0.00808543669871795, "17": 0.005096368475274725, "18": 0.003889795100732601, "19": 0.004304744734432235, "20": 0.0028030563186813187, "21": 0.00129635989010989, "22": 0.00089679201007326, "23": 0.0016236692994505495}}
+{"kind": "reward", "t": 176, "reward": 0.875}
+{"kind": "reward", "t": 177, "reward": 0.625}
+{"kind": "reward", "t": 178, "reward": 0.25}
+{"kind": "reward", "t": 179, "reward": 0.875}
+{"kind": "reward", "t": 180, "reward": 0.0625}
+{"kind": "reward", "t": 181, "reward": 0.46875}
+{"kind": "reward", "t": 182, "reward": 0.5625}
+{"kind": "reward", "t": 183, "reward": 0.53125}
+{"kind": "reward", "t": 184, "reward": 0.5625}
+{"kind": "reward", "t": 185, "reward": 0.875}
+{"kind": "reward", "t": 186, "reward": 0.28125}
+{"kind": "reward", "t": 187, "reward": 0.28125}
+{"kind": "reward", "t": 188, "reward": 0.28125}
+{"kind": "reward", "t": 189, "reward": 0.25}
+{"kind": "reward", "t": 190, "reward": 0.6875}
+{"kind": "reward", "t": 191, "reward": 0.34375}
+{"kind": "reward", "t": 192, "reward": 0.5625}
+{"kind": "reward", "t": 193, "reward": 0.25}
+{"kind": "reward", "t": 194, "reward": 0.21875}
+{"kind": "reward", "t": 195, "reward": 0.375}
+{"kind": "reward", "t": 196, "reward": 0.4375}
+{"kind": "reward", "t": 197, "reward": 0.625}
+{"kind": "reward", "t": 198, "reward": 0.75}
+{"kind": "reward", "t": 199, "reward": 0.125}
+{"kind": "reward", "t": 200, "reward": 0.84375}
+{"kind": "select", "t": 201, "kept_frac": 0.20000035771520147, "energy_captured": 0.8224421787159598, "per_layer_kept": {"0": 0.007467304830586081, "1": 0.004954713255494505, "2": 0.0055063100961538465, "3": 0.005766369047619048, "4": 0.00543369391025641, "5": 0.007323861034798535, "6": 0.008286830357142857, "7": 0.011221168154761905, "8": 0.011161072000915751, "9": 0.017434681204212453, "10": 0.016124728136446886, "11": 0.019389237065018314, "12": 0.019577395260989013, "13": 0.017367788461538462, "14": 0.012323646405677655, "15": 0.010635230654761905, "16": 0.005408296130952381, "17": 0.003627589858058608, "18": 0.0028613638965201463, "19": 0.0031046102335164833, "20": 0.001653001945970696, "21": 0.0008213141025641026, "22": 0.0007733802655677655, "23": 0.0017767714056776557}}
+{"kind": "reward", "t": 201, "reward": 0.4375}
+{"kind": "reward", "t": 202, "reward": 0.3125}
+{"kind": "reward", "t": 203, "reward": 0.09375}
+{"kind": "reward", "t": 204, "reward": 0.21875}
+{"kind": "reward", "t": 205, "reward": 0.65625}
+{"kind": "reward", "t": 206, "reward": 0.25}
+{"kind": "reward", "t": 207, "reward": 0.625}
+{"kind": "reward", "t": 208, "reward": 0.25}
+{"kind": "reward", "t": 209, "reward": 0.53125}
+{"kind": "reward", "t": 210, "reward": 0.71875}
+{"kind": "reward", "t": 211, "reward": 0.125}
+{"kind": "reward", "t": 212, "reward": 0.5625}
+{"kind": "reward", "t": 213, "reward": 0.25}
+{"kind": "reward", "t": 214, "reward": 0.53125}
+{"kind": "reward", "t": 215, "reward": 0.1875}
+{"kind": "reward", "t": 216, "reward": 0.15625}
+{"kind": "reward", "t": 217, "reward": 0.25}
+{"kind": "reward", "t": 218, "reward": 0.125}
+{"kind": "reward", "t": 219, "reward": 0.78125}
+{"kind": "reward", "t": 220, "reward": 0.84375}
+{"kind": "reward", "t": 221, "reward": 0.65625}
+{"kind": "reward", "t": 222, "reward": 0.1875}
+{"kind": "reward", "t": 223, "reward": 0.28125}
+{"kind": "reward", "t": 224, "reward": 0.1875}
+{"kind": "reward", "t": 225, "reward": 0.40625}
+{"kind": "select", "t": 226, "kept_frac": 0.20000143086080585, "energy_captured": 0.7985165109242901, "per_layer_kept": {"0": 0.004628476991758242, "1": 0.0030169700091575093, "2": 0.0037577981913919415, "3": 0.0037123683608058606, "4": 0.004353036286630037, "5": 0.006622023809523809, "6": 0.007809995993589744, "7": 0.010779747596153846, "8": 0.011972370077838829, "9": 0.013046588827838828, "10": 0.01368153331043956, "11": 0.01624134329212454, "12": 0.01850317651098901, "13": 0.01660478193681319, "14": 0.014380866529304029, "15": 0.014814059638278388, "16": 0.007603236607142857, "17": 0.004201365041208791, "18": 0.004185983287545787, "19": 0.00628577152014652, "20": 0.003190819597069597, "21": 0.0020250257554945057, "22": 0.001872996794871795, "23": 0.006711094894688644}}
+{"kind": "reward", "t": 226, "reward": 0.0625}
+{"kind": "reward", "t": 227, "reward": 0.375}
+{"kind": "reward", "t": 228, "reward": 0.4375}
+{"kind": "reward", "t": 229, "reward": 0.46875}
+{"kind": "reward", "t": 230, "reward": 0.40625}
+{"kind": "reward", "t": 231, "reward": 0.5}
+{"kind": "reward", "t": 232, "reward": 0.59375}
+{"kind": "reward", "t": 233, "reward": 0.0625}
+{"kind": "reward", "t": 234, "reward": 0.4375}
+{"kind": "reward", "t": 235, "reward": 0.34375}
+{"kind": "reward", "t": 236, "reward": 0.21875}
+{"kind": "reward", "t": 237, "reward": 0.34375}
+{"kind": "reward", "t": 238, "reward": 0.25}
+{"kind": "reward", "t": 239, "reward": 0.65625}
+{"kind": "reward", "t": 240, "reward": 0.5}
+{"kind": "reward", "t": 241, "reward": 0.5}
+{"kind": "reward", "t": 242, "reward": 0.5625}
+{"kind": "reward", "t": 243, "reward": 0.0}
+{"kind": "reward", "t": 244, "reward": 0.03125}
+{"kind": "reward", "t": 245, "reward": 0.375}
+{"kind": "reward", "t": 246, "reward": 0.3125}
+{"kind": "reward", "t": 247, "reward": 0.59375}
+{"kind": "reward", "t": 248, "reward": 0.40625}
+{"kind": "reward", "t": 249, "reward": 0.71875}
+{"kind": "reward", "t": 250, "reward": 0.40625}

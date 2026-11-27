@@ -1,0 +1,17 @@
+{
+ "te_version": "2.8.0+40c69e75",
+ "torch": "2.9.0a0+145a3a7bda.nv25.10",
+ "gpu": "NVIDIA H100 80GB HBM3",
+ "bit_exact_300x520_offset0": true,
+ "bit_exact_4096x4096_offset6207488": true,
+ "bit_exact_1000x3000_offset1499136": true,
+ "kernel_bit_exact_all": true,
+ "te_cast_master_weights_fixed_threshold_matches": true,
+ "te_cast_master_weights_nearest_differs_on_frac": 0.24996280670166016,
+ "master_unchanged": true,
+ "kernel_ms_7B_mlp_shard": 0.05608797073364258,
+ "snap_ms_7B_mlp_shard_compiled": 0.22426843643188477,
+ "snap_ms_7B_mlp_shard_eager": 1.609337329864502,
+ "compiled_equals_eager": true,
+ "shard_elems": 7340032
+}

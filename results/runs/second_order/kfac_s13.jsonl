@@ -1,0 +1,502 @@
+{"kind": "meta", "arm": "fisher", "frac": 0.2, "refresh": 25, "N": 357826560}
+{"kind": "meta_g20", "gamma": 0.1, "beta": 0.95}
+{"kind": "select", "t": 1, "kept_frac": 0.2000071543040293, "energy_captured": 0.8388190590915218, "per_layer_kept": {"0": 0.019702953296703296, "1": 0.01737744677197802, "2": 0.015790264423076922, "3": 0.015472613324175825, "4": 0.014917797046703297, "5": 0.016897392971611722, "6": 0.013959478021978023, "7": 0.012781879578754578, "8": 0.009103494162087913, "9": 0.008497166895604395, "10": 0.006848099816849817, "11": 0.007085980425824176, "12": 0.006635974702380952, "13": 0.005238739125457875, "14": 0.005079198145604396, "15": 0.004510430975274725, "16": 0.0038540235805860808, "17": 0.0025776957417582417, "18": 0.0020550738324175825, "19": 0.002227134844322344, "20": 0.0022435897435897434, "21": 0.0011443309294871795, "22": 0.001042382097069597, "23": 0.0049640138507326004}}
+{"kind": "reward", "t": 1, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4454996453686839, "cos_vs_adam_min": 0.1948755830526352, "n_mats": 168, "post_ms": 507.8451633453369}
+{"kind": "reward", "t": 2, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4813371403586297, "cos_vs_adam_min": 0.20760032534599304, "n_mats": 168, "post_ms": 212.02492713928223}
+{"kind": "reward", "t": 3, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4981471490824506, "cos_vs_adam_min": 0.21448571979999542, "n_mats": 168, "post_ms": 218.66154670715332}
+{"kind": "reward", "t": 4, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5070792929757209, "cos_vs_adam_min": 0.24613428115844727, "n_mats": 168, "post_ms": 218.51420402526855}
+{"kind": "reward", "t": 5, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5085183495566958, "cos_vs_adam_min": 0.22600066661834717, "n_mats": 168, "post_ms": 218.01161766052246}
+{"kind": "reward", "t": 6, "reward": 0.03125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5180987354722761, "cos_vs_adam_min": 0.23185311257839203, "n_mats": 168, "post_ms": 217.35692024230957}
+{"kind": "reward", "t": 7, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5268907591345764, "cos_vs_adam_min": 0.24111875891685486, "n_mats": 168, "post_ms": 218.6429500579834}
+{"kind": "reward", "t": 8, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.541726213924232, "cos_vs_adam_min": 0.24000371992588043, "n_mats": 168, "post_ms": 214.5841121673584}
+{"kind": "reward", "t": 9, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5447377189106885, "cos_vs_adam_min": 0.23022912442684174, "n_mats": 168, "post_ms": 216.5982723236084}
+{"kind": "reward", "t": 10, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5428461451970396, "cos_vs_adam_min": 0.2354685366153717, "n_mats": 168, "post_ms": 217.58627891540527}
+{"kind": "reward", "t": 11, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5426060695733342, "cos_vs_adam_min": 0.23310348391532898, "n_mats": 168, "post_ms": 218.71614456176758}
+{"kind": "reward", "t": 12, "reward": 0.15625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5405932376604705, "cos_vs_adam_min": 0.2327275425195694, "n_mats": 168, "post_ms": 212.10980415344238}
+{"kind": "reward", "t": 13, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5390438543898719, "cos_vs_adam_min": 0.24329453706741333, "n_mats": 168, "post_ms": 216.20869636535645}
+{"kind": "reward", "t": 14, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.540670660280046, "cos_vs_adam_min": 0.24689030647277832, "n_mats": 168, "post_ms": 216.84861183166504}
+{"kind": "reward", "t": 15, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5427200379116195, "cos_vs_adam_min": 0.26032543182373047, "n_mats": 168, "post_ms": 217.79251098632812}
+{"kind": "reward", "t": 16, "reward": 0.09375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5454874274631342, "cos_vs_adam_min": 0.2555471360683441, "n_mats": 168, "post_ms": 212.6462459564209}
+{"kind": "reward", "t": 17, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5466786032276494, "cos_vs_adam_min": 0.2630873918533325, "n_mats": 168, "post_ms": 218.50872039794922}
+{"kind": "reward", "t": 18, "reward": 0.03125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5472482769262224, "cos_vs_adam_min": 0.264759361743927, "n_mats": 168, "post_ms": 218.5044288635254}
+{"kind": "reward", "t": 19, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5504619065849554, "cos_vs_adam_min": 0.26922807097435, "n_mats": 168, "post_ms": 218.78504753112793}
+{"kind": "reward", "t": 20, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5520950640950885, "cos_vs_adam_min": 0.2715749740600586, "n_mats": 168, "post_ms": 219.39778327941895}
+{"kind": "reward", "t": 21, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5547896447990622, "cos_vs_adam_min": 0.2565542757511139, "n_mats": 168, "post_ms": 218.25647354125977}
+{"kind": "reward", "t": 22, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5537320332867759, "cos_vs_adam_min": 0.2611016631126404, "n_mats": 168, "post_ms": 211.84492111206055}
+{"kind": "reward", "t": 23, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5531131357309365, "cos_vs_adam_min": 0.26765748858451843, "n_mats": 168, "post_ms": 219.2213535308838}
+{"kind": "reward", "t": 24, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.550316045326846, "cos_vs_adam_min": 0.2597385048866272, "n_mats": 168, "post_ms": 212.3241424560547}
+{"kind": "reward", "t": 25, "reward": 0.03125}
+{"kind": "select", "t": 26, "kept_frac": 0.20000786973443224, "energy_captured": 0.8414955435000344, "per_layer_kept": {"0": 0.01023602048992674, "1": 0.008369104853479853, "2": 0.009399682348901098, "3": 0.008737909226190476, "4": 0.010465673649267399, "5": 0.01568187671703297, "6": 0.01364647722069597, "7": 0.015387119391025642, "8": 0.01239483173076923, "9": 0.010933922847985347, "10": 0.010290750915750916, "11": 0.013433278960622711, "12": 0.007007998511904762, "13": 0.006579455700549451, "14": 0.007105297046703297, "15": 0.007538847870879121, "16": 0.005434767055860806, "17": 0.0039999713827838825, "18": 0.0032945570054945055, "19": 0.0039695655906593404, "20": 0.0027447487408424906, "21": 0.0017020089285714286, "22": 0.0019327352335164836, "23": 0.009721268315018315}}
+{"kind": "reward", "t": 26, "reward": 0.03125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.43275285077591735, "cos_vs_adam_min": 0.16912157833576202, "n_mats": 168, "post_ms": 211.54499053955078}
+{"kind": "reward", "t": 27, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.46045599150515737, "cos_vs_adam_min": 0.19996219873428345, "n_mats": 168, "post_ms": 216.048002243042}
+{"kind": "reward", "t": 28, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.479891012200997, "cos_vs_adam_min": 0.23031793534755707, "n_mats": 168, "post_ms": 215.79575538635254}
+{"kind": "reward", "t": 29, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.49762352573729696, "cos_vs_adam_min": 0.2451135516166687, "n_mats": 168, "post_ms": 216.13025665283203}
+{"kind": "reward", "t": 30, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5057375425738948, "cos_vs_adam_min": 0.25714361667633057, "n_mats": 168, "post_ms": 210.09469032287598}
+{"kind": "reward", "t": 31, "reward": 0.15625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.51567685178348, "cos_vs_adam_min": 0.2649752199649811, "n_mats": 168, "post_ms": 216.3691520690918}
+{"kind": "reward", "t": 32, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5219421918903079, "cos_vs_adam_min": 0.26906150579452515, "n_mats": 168, "post_ms": 210.53123474121094}
+{"kind": "reward", "t": 33, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5290137096529915, "cos_vs_adam_min": 0.2770383954048157, "n_mats": 168, "post_ms": 215.1634693145752}
+{"kind": "reward", "t": 34, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5306810733108294, "cos_vs_adam_min": 0.2787705063819885, "n_mats": 168, "post_ms": 210.53838729858398}
+{"kind": "reward", "t": 35, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5374005500759397, "cos_vs_adam_min": 0.27833467721939087, "n_mats": 168, "post_ms": 216.1085605621338}
+{"kind": "reward", "t": 36, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5458221408937659, "cos_vs_adam_min": 0.2854541540145874, "n_mats": 168, "post_ms": 216.3698673248291}
+{"kind": "reward", "t": 37, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.54420189311107, "cos_vs_adam_min": 0.27768388390541077, "n_mats": 168, "post_ms": 216.5968418121338}
+{"kind": "reward", "t": 38, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.547153190487907, "cos_vs_adam_min": 0.2778949737548828, "n_mats": 168, "post_ms": 209.55324172973633}
+{"kind": "reward", "t": 39, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5494587955375513, "cos_vs_adam_min": 0.28268665075302124, "n_mats": 168, "post_ms": 215.96598625183105}
+{"kind": "reward", "t": 40, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5513848192280247, "cos_vs_adam_min": 0.2827022969722748, "n_mats": 168, "post_ms": 213.8378620147705}
+{"kind": "reward", "t": 41, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5531082442473798, "cos_vs_adam_min": 0.2830730378627777, "n_mats": 168, "post_ms": 209.76901054382324}
+{"kind": "reward", "t": 42, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5466826256541979, "cos_vs_adam_min": 0.27790817618370056, "n_mats": 168, "post_ms": 216.24231338500977}
+{"kind": "reward", "t": 43, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5534183773256484, "cos_vs_adam_min": 0.2814781367778778, "n_mats": 168, "post_ms": 216.3991928100586}
+{"kind": "reward", "t": 44, "reward": 0.15625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5557968125102066, "cos_vs_adam_min": 0.27959394454956055, "n_mats": 168, "post_ms": 209.6538543701172}
+{"kind": "reward", "t": 45, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5520981136886847, "cos_vs_adam_min": 0.26733773946762085, "n_mats": 168, "post_ms": 215.33608436584473}
+{"kind": "reward", "t": 46, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5564688916007677, "cos_vs_adam_min": 0.27037253975868225, "n_mats": 168, "post_ms": 209.49530601501465}
+{"kind": "reward", "t": 47, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5583705066570214, "cos_vs_adam_min": 0.2720238268375397, "n_mats": 168, "post_ms": 216.0799503326416}
+{"kind": "reward", "t": 48, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5538488007372334, "cos_vs_adam_min": 0.2652586102485657, "n_mats": 168, "post_ms": 209.89108085632324}
+{"kind": "reward", "t": 49, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5472777063647906, "cos_vs_adam_min": 0.2572632133960724, "n_mats": 168, "post_ms": 216.14933013916016}
+{"kind": "reward", "t": 50, "reward": 0.09375}
+{"kind": "select", "t": 51, "kept_frac": 0.20000572344322345, "energy_captured": 0.8016774605211725, "per_layer_kept": {"0": 0.0048828125, "1": 0.003961338141025641, "2": 0.005185797275641025, "3": 0.005194024725274725, "4": 0.005817164606227106, "5": 0.010000643887362637, "6": 0.011435081845238095, "7": 0.013855740613553113, "8": 0.011540250114468865, "9": 0.011460837339743589, "10": 0.011199347527472528, "11": 0.015334535256410256, "12": 0.009279132326007326, "13": 0.010256052541208791, "14": 0.01119326636904762, "15": 0.012612322573260074, "16": 0.00867137419871795, "17": 0.006394516941391941, "18": 0.005013378548534799, "19": 0.005689460279304029, "20": 0.0035614125457875457, "21": 0.00230797847985348, "22": 0.0025576636904761905, "23": 0.012601591117216118}}
+{"kind": "reward", "t": 51, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4379839167266549, "cos_vs_adam_min": 0.20477595925331116, "n_mats": 167, "post_ms": 213.88673782348633}
+{"kind": "reward", "t": 52, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.45028452280752673, "cos_vs_adam_min": 0.2066015601158142, "n_mats": 167, "post_ms": 217.7107334136963}
+{"kind": "reward", "t": 53, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4647018550755735, "cos_vs_adam_min": 0.21268653869628906, "n_mats": 167, "post_ms": 217.29540824890137}
+{"kind": "reward", "t": 54, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4841369716171733, "cos_vs_adam_min": 0.23059378564357758, "n_mats": 167, "post_ms": 212.18204498291016}
+{"kind": "reward", "t": 55, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4976388825449401, "cos_vs_adam_min": 0.2435416728258133, "n_mats": 167, "post_ms": 218.37735176086426}
+{"kind": "reward", "t": 56, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5081148619601826, "cos_vs_adam_min": 0.24589048326015472, "n_mats": 167, "post_ms": 211.98678016662598}
+{"kind": "reward", "t": 57, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5138184115915241, "cos_vs_adam_min": 0.2505313456058502, "n_mats": 167, "post_ms": 211.77124977111816}
+{"kind": "reward", "t": 58, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5203588174845644, "cos_vs_adam_min": 0.24898692965507507, "n_mats": 167, "post_ms": 211.67469024658203}
+{"kind": "reward", "t": 59, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5274234271335031, "cos_vs_adam_min": 0.2559271454811096, "n_mats": 167, "post_ms": 218.1222438812256}
+{"kind": "reward", "t": 60, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5292468877609618, "cos_vs_adam_min": 0.26095446944236755, "n_mats": 167, "post_ms": 218.1069850921631}
+{"kind": "reward", "t": 61, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5298500530377119, "cos_vs_adam_min": 0.26586398482322693, "n_mats": 167, "post_ms": 217.47970581054688}
+{"kind": "reward", "t": 62, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5300037703828183, "cos_vs_adam_min": 0.26552894711494446, "n_mats": 167, "post_ms": 217.44275093078613}
+{"kind": "reward", "t": 63, "reward": 0.03125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5340880844407453, "cos_vs_adam_min": 0.2755226790904999, "n_mats": 167, "post_ms": 218.3060646057129}
+{"kind": "reward", "t": 64, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5394120353781534, "cos_vs_adam_min": 0.27139005064964294, "n_mats": 167, "post_ms": 215.27409553527832}
+{"kind": "reward", "t": 65, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5430145185150786, "cos_vs_adam_min": 0.2654183506965637, "n_mats": 167, "post_ms": 217.08011627197266}
+{"kind": "reward", "t": 66, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5475597356607814, "cos_vs_adam_min": 0.27593737840652466, "n_mats": 167, "post_ms": 211.80319786071777}
+{"kind": "reward", "t": 67, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5473086187939444, "cos_vs_adam_min": 0.27839672565460205, "n_mats": 167, "post_ms": 219.99716758728027}
+{"kind": "reward", "t": 68, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5451713891443378, "cos_vs_adam_min": 0.2759382724761963, "n_mats": 167, "post_ms": 218.10102462768555}
+{"kind": "reward", "t": 69, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.546135127365946, "cos_vs_adam_min": 0.2676568329334259, "n_mats": 167, "post_ms": 217.93723106384277}
+{"kind": "reward", "t": 70, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5524734060564441, "cos_vs_adam_min": 0.2854050397872925, "n_mats": 167, "post_ms": 212.27669715881348}
+{"kind": "reward", "t": 71, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5498473565735503, "cos_vs_adam_min": 0.27700182795524597, "n_mats": 167, "post_ms": 219.37155723571777}
+{"kind": "reward", "t": 72, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.551655403868167, "cos_vs_adam_min": 0.27429044246673584, "n_mats": 167, "post_ms": 213.9439582824707}
+{"kind": "reward", "t": 73, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5504083103405502, "cos_vs_adam_min": 0.26435258984565735, "n_mats": 167, "post_ms": 212.2366428375244}
+{"kind": "reward", "t": 74, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5527786464391354, "cos_vs_adam_min": 0.26376888155937195, "n_mats": 167, "post_ms": 211.69471740722656}
+{"kind": "reward", "t": 75, "reward": 0.28125}
+{"kind": "select", "t": 76, "kept_frac": 0.2000110891712454, "energy_captured": 0.804204528064049, "per_layer_kept": {"0": 0.014147278502747253, "1": 0.011822845123626373, "2": 0.012973614926739927, "3": 0.01345653044871795, "4": 0.013192894345238095, "5": 0.017341317536630037, "6": 0.014753963484432234, "7": 0.015166766826923077, "8": 0.010356212797619047, "9": 0.008899238782051282, "10": 0.00838949461996337, "11": 0.008997968177655677, "12": 0.006688916552197802, "13": 0.005829684638278388, "14": 0.006477149152930403, "15": 0.006007469093406594, "16": 0.004395962110805861, "17": 0.0032555660485347987, "18": 0.0025680374313186813, "19": 0.00310782967032967, "20": 0.002297604739010989, "21": 0.0015718005952380953, "22": 0.0013013679029304029, "23": 0.007011575663919414}}
+{"kind": "reward", "t": 76, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4648073308524631, "cos_vs_adam_min": 0.2592461407184601, "n_mats": 168, "post_ms": 252.60233879089355}
+{"kind": "reward", "t": 77, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.46332927225601106, "cos_vs_adam_min": 0.2668083608150482, "n_mats": 168, "post_ms": 221.99034690856934}
+{"kind": "reward", "t": 78, "reward": 0.15625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.47435270551414715, "cos_vs_adam_min": 0.2525959610939026, "n_mats": 168, "post_ms": 221.6017246246338}
+{"kind": "reward", "t": 79, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48579444275015876, "cos_vs_adam_min": 0.2682769298553467, "n_mats": 168, "post_ms": 221.87113761901855}
+{"kind": "reward", "t": 80, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4929356261023453, "cos_vs_adam_min": 0.23999422788619995, "n_mats": 168, "post_ms": 215.72303771972656}
+{"kind": "reward", "t": 81, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.504612018221191, "cos_vs_adam_min": 0.23953957855701447, "n_mats": 168, "post_ms": 215.38805961608887}
+{"kind": "reward", "t": 82, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5054388162458227, "cos_vs_adam_min": 0.24017544090747833, "n_mats": 168, "post_ms": 215.32750129699707}
+{"kind": "reward", "t": 83, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5126245740268912, "cos_vs_adam_min": 0.24207526445388794, "n_mats": 168, "post_ms": 222.15867042541504}
+{"kind": "reward", "t": 84, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5186874992435887, "cos_vs_adam_min": 0.24896544218063354, "n_mats": 168, "post_ms": 222.2135066986084}
+{"kind": "reward", "t": 85, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.519939703068563, "cos_vs_adam_min": 0.2487306296825409, "n_mats": 168, "post_ms": 221.144437789917}
+{"kind": "reward", "t": 86, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5272653496691159, "cos_vs_adam_min": 0.24352803826332092, "n_mats": 168, "post_ms": 221.01068496704102}
+{"kind": "reward", "t": 87, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5299990715547687, "cos_vs_adam_min": 0.23745520412921906, "n_mats": 168, "post_ms": 222.22042083740234}
+{"kind": "reward", "t": 88, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5334689803421497, "cos_vs_adam_min": 0.23819518089294434, "n_mats": 168, "post_ms": 220.6120491027832}
+{"kind": "reward", "t": 89, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5338058973706904, "cos_vs_adam_min": 0.23994815349578857, "n_mats": 168, "post_ms": 222.9318618774414}
+{"kind": "reward", "t": 90, "reward": 0.03125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5313620912354617, "cos_vs_adam_min": 0.24118457734584808, "n_mats": 168, "post_ms": 217.29731559753418}
+{"kind": "reward", "t": 91, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5356067122802848, "cos_vs_adam_min": 0.252930223941803, "n_mats": 168, "post_ms": 223.58155250549316}
+{"kind": "reward", "t": 92, "reward": 0.09375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5362423795851923, "cos_vs_adam_min": 0.2409674972295761, "n_mats": 168, "post_ms": 223.58179092407227}
+{"kind": "reward", "t": 93, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5400283349057039, "cos_vs_adam_min": 0.24808675050735474, "n_mats": 168, "post_ms": 221.97723388671875}
+{"kind": "reward", "t": 94, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5451616822254091, "cos_vs_adam_min": 0.24141764640808105, "n_mats": 168, "post_ms": 223.65856170654297}
+{"kind": "reward", "t": 95, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5457689717766785, "cos_vs_adam_min": 0.24620074033737183, "n_mats": 168, "post_ms": 216.61615371704102}
+{"kind": "reward", "t": 96, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5483788117943775, "cos_vs_adam_min": 0.23700709640979767, "n_mats": 168, "post_ms": 216.5365219116211}
+{"kind": "reward", "t": 97, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5474135869493088, "cos_vs_adam_min": 0.2427986115217209, "n_mats": 168, "post_ms": 223.27637672424316}
+{"kind": "reward", "t": 98, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5507062294830879, "cos_vs_adam_min": 0.24233119189739227, "n_mats": 168, "post_ms": 223.1771945953369}
+{"kind": "reward", "t": 99, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5501367547327564, "cos_vs_adam_min": 0.2626059651374817, "n_mats": 168, "post_ms": 222.184419631958}
+{"kind": "reward", "t": 100, "reward": 0.5}
+{"kind": "select", "t": 101, "kept_frac": 0.20000071543040293, "energy_captured": 0.805208060413023, "per_layer_kept": {"0": 0.005543154761904762, "1": 0.004095839056776557, "2": 0.004596282623626374, "3": 0.004121952266483517, "4": 0.005658339056776557, "5": 0.01070641597985348, "6": 0.012001702724358975, "7": 0.013883284684065933, "8": 0.011411830357142856, "9": 0.012765782394688644, "10": 0.013083075778388279, "11": 0.014705671932234432, "12": 0.011705156822344322, "13": 0.012442765567765567, "14": 0.013066263163919414, "15": 0.012393043154761904, "16": 0.007618976076007326, "17": 0.005154318337912088, "18": 0.004066148695054945, "19": 0.0045690962683150186, "20": 0.0029658167353479852, "21": 0.0016211652930402931, "22": 0.0015174278846153846, "23": 0.010307205815018315}}
+{"kind": "reward", "t": 101, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4410997102303164, "cos_vs_adam_min": 0.20287403464317322, "n_mats": 168, "post_ms": 211.68780326843262}
+{"kind": "reward", "t": 102, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4573348749961172, "cos_vs_adam_min": 0.19545574486255646, "n_mats": 168, "post_ms": 222.56875038146973}
+{"kind": "reward", "t": 103, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.46476258027056855, "cos_vs_adam_min": 0.18125465512275696, "n_mats": 168, "post_ms": 218.16205978393555}
+{"kind": "reward", "t": 104, "reward": 0.3125}
+{"kind": "reward", "t": 105, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.47783988235252245, "cos_vs_adam_min": 0.1976117342710495, "n_mats": 168, "post_ms": 222.3374843597412}
+{"kind": "reward", "t": 106, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48890190899726893, "cos_vs_adam_min": 0.21714922785758972, "n_mats": 168, "post_ms": 221.6963768005371}
+{"kind": "reward", "t": 107, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.49394550467176096, "cos_vs_adam_min": 0.2076532393693924, "n_mats": 168, "post_ms": 222.1972942352295}
+{"kind": "reward", "t": 108, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5005286378519875, "cos_vs_adam_min": 0.17470887303352356, "n_mats": 168, "post_ms": 220.10326385498047}
+{"kind": "reward", "t": 109, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5087965567197118, "cos_vs_adam_min": 0.21261292695999146, "n_mats": 168, "post_ms": 217.4820899963379}
+{"kind": "reward", "t": 110, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5168308966926166, "cos_vs_adam_min": 0.2043057382106781, "n_mats": 168, "post_ms": 222.8097915649414}
+{"kind": "reward", "t": 111, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5176990739114228, "cos_vs_adam_min": 0.18554095923900604, "n_mats": 168, "post_ms": 217.0419692993164}
+{"kind": "reward", "t": 112, "reward": 0.125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5263847575656005, "cos_vs_adam_min": 0.18735593557357788, "n_mats": 168, "post_ms": 221.75931930541992}
+{"kind": "reward", "t": 113, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5237213242799044, "cos_vs_adam_min": 0.17832596600055695, "n_mats": 168, "post_ms": 222.3978042602539}
+{"kind": "reward", "t": 114, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5289651538644519, "cos_vs_adam_min": 0.2010902464389801, "n_mats": 168, "post_ms": 222.97310829162598}
+{"kind": "reward", "t": 115, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.539831532608895, "cos_vs_adam_min": 0.19635125994682312, "n_mats": 168, "post_ms": 221.58288955688477}
+{"kind": "reward", "t": 116, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.536260618251704, "cos_vs_adam_min": 0.21493707597255707, "n_mats": 168, "post_ms": 222.72586822509766}
+{"kind": "reward", "t": 117, "reward": 0.09375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5394036405320678, "cos_vs_adam_min": 0.21491430699825287, "n_mats": 168, "post_ms": 223.4203815460205}
+{"kind": "reward", "t": 118, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.540418270886654, "cos_vs_adam_min": 0.20453013479709625, "n_mats": 168, "post_ms": 224.18522834777832}
+{"kind": "reward", "t": 119, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5477828876603217, "cos_vs_adam_min": 0.20860415697097778, "n_mats": 168, "post_ms": 222.67413139343262}
+{"kind": "reward", "t": 120, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5453898245912223, "cos_vs_adam_min": 0.2255297750234604, "n_mats": 168, "post_ms": 222.52511978149414}
+{"kind": "reward", "t": 121, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5441599336585828, "cos_vs_adam_min": 0.23072688281536102, "n_mats": 168, "post_ms": 222.22661972045898}
+{"kind": "reward", "t": 122, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5442721323065814, "cos_vs_adam_min": 0.18811585009098053, "n_mats": 168, "post_ms": 222.19491004943848}
+{"kind": "reward", "t": 123, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5487403450977235, "cos_vs_adam_min": 0.2118341028690338, "n_mats": 168, "post_ms": 221.53377532958984}
+{"kind": "reward", "t": 124, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5463902976896081, "cos_vs_adam_min": 0.2198791205883026, "n_mats": 168, "post_ms": 221.59862518310547}
+{"kind": "reward", "t": 125, "reward": 0.375}
+{"kind": "select", "t": 126, "kept_frac": 0.20000751201923078, "energy_captured": 0.8107401509705237, "per_layer_kept": {"0": 0.0035878834706959705, "1": 0.002872810782967033, "2": 0.003246980883699634, "3": 0.0035989726419413917, "4": 0.004588770604395605, "5": 0.006570870535714286, "6": 0.00784684065934066, "7": 0.011939102564102563, "8": 0.010987580128205129, "9": 0.014768987522893772, "10": 0.013329899267399267, "11": 0.015672576121794873, "12": 0.015181075434981685, "13": 0.014904561584249085, "14": 0.012956802312271063, "15": 0.012264981112637362, "16": 0.00892177483974359, "17": 0.005910170558608058, "18": 0.005199748168498168, "19": 0.005152887477106227, "20": 0.0038386418269230767, "21": 0.0020819024725274725, "22": 0.0017814217032967033, "23": 0.012802269345238095}}
+{"kind": "reward", "t": 126, "reward": 0.6875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4640163616942508, "cos_vs_adam_min": 0.24304117262363434, "n_mats": 168, "post_ms": 216.09830856323242}
+{"kind": "reward", "t": 127, "reward": 0.15625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4751116062204043, "cos_vs_adam_min": 0.25023284554481506, "n_mats": 168, "post_ms": 213.58537673950195}
+{"kind": "reward", "t": 128, "reward": 0.78125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48611566034101306, "cos_vs_adam_min": 0.24806326627731323, "n_mats": 168, "post_ms": 220.95751762390137}
+{"kind": "reward", "t": 129, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.49307303024189814, "cos_vs_adam_min": 0.24525186419487, "n_mats": 168, "post_ms": 220.9784984588623}
+{"kind": "reward", "t": 130, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4971245276253848, "cos_vs_adam_min": 0.2459392100572586, "n_mats": 168, "post_ms": 220.23630142211914}
+{"kind": "reward", "t": 131, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5004418141962517, "cos_vs_adam_min": 0.24226684868335724, "n_mats": 168, "post_ms": 214.32065963745117}
+{"kind": "reward", "t": 132, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5078670717775822, "cos_vs_adam_min": 0.25363636016845703, "n_mats": 168, "post_ms": 214.2317295074463}
+{"kind": "reward", "t": 133, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.511517621576786, "cos_vs_adam_min": 0.25004562735557556, "n_mats": 168, "post_ms": 220.8259105682373}
+{"kind": "reward", "t": 134, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5174274597139585, "cos_vs_adam_min": 0.25717106461524963, "n_mats": 168, "post_ms": 214.77413177490234}
+{"kind": "reward", "t": 135, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5292333870061806, "cos_vs_adam_min": 0.2770996689796448, "n_mats": 168, "post_ms": 219.18058395385742}
+{"kind": "reward", "t": 136, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5380082385880607, "cos_vs_adam_min": 0.29072466492652893, "n_mats": 168, "post_ms": 220.59893608093262}
+{"kind": "reward", "t": 137, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5375642407508123, "cos_vs_adam_min": 0.30487608909606934, "n_mats": 168, "post_ms": 214.4918441772461}
+{"kind": "reward", "t": 138, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5352730802482083, "cos_vs_adam_min": 0.29674413800239563, "n_mats": 168, "post_ms": 219.5291519165039}
+{"kind": "reward", "t": 139, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5361457919435841, "cos_vs_adam_min": 0.2974008023738861, "n_mats": 168, "post_ms": 215.15130996704102}
+{"kind": "reward", "t": 140, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.536403478788478, "cos_vs_adam_min": 0.29449304938316345, "n_mats": 168, "post_ms": 220.60680389404297}
+{"kind": "reward", "t": 141, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5366589662929376, "cos_vs_adam_min": 0.2891406714916229, "n_mats": 168, "post_ms": 215.1663303375244}
+{"kind": "reward", "t": 142, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5417116083914325, "cos_vs_adam_min": 0.2811633348464966, "n_mats": 168, "post_ms": 219.38848495483398}
+{"kind": "reward", "t": 143, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5404477277327151, "cos_vs_adam_min": 0.280140221118927, "n_mats": 168, "post_ms": 220.15118598937988}
+{"kind": "reward", "t": 144, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5383218706008934, "cos_vs_adam_min": 0.27839526534080505, "n_mats": 168, "post_ms": 214.10870552062988}
+{"kind": "reward", "t": 145, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5393475952247778, "cos_vs_adam_min": 0.2765822410583496, "n_mats": 168, "post_ms": 220.39127349853516}
+{"kind": "reward", "t": 146, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5402307691318649, "cos_vs_adam_min": 0.27560746669769287, "n_mats": 168, "post_ms": 215.41929244995117}
+{"kind": "reward", "t": 147, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.544781852336157, "cos_vs_adam_min": 0.2891731262207031, "n_mats": 168, "post_ms": 221.06623649597168}
+{"kind": "reward", "t": 148, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5472337725971427, "cos_vs_adam_min": 0.2886233329772949, "n_mats": 168, "post_ms": 215.29769897460938}
+{"kind": "reward", "t": 149, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5454894155263901, "cos_vs_adam_min": 0.28248924016952515, "n_mats": 168, "post_ms": 218.76072883605957}
+{"kind": "reward", "t": 150, "reward": 0.5}
+{"kind": "select", "t": 151, "kept_frac": 0.2000021462912088, "energy_captured": 0.8337037554359481, "per_layer_kept": {"0": 0.0034895117902930405, "1": 0.0030266283195970697, "2": 0.003396148122710623, "3": 0.0038118131868131867, "4": 0.004879235347985348, "5": 0.006619162087912088, "6": 0.006379850618131868, "7": 0.009685496794871795, "8": 0.009988123855311355, "9": 0.012709263392857143, "10": 0.012937843406593406, "11": 0.014619820283882784, "12": 0.01370836195054945, "13": 0.014055703411172162, "14": 0.013498740842490843, "15": 0.01529769059065934, "16": 0.01031793727106227, "17": 0.007667267628205128, "18": 0.006114068223443223, "19": 0.007139995421245421, "20": 0.004310110462454213, "21": 0.0021523723672161174, "22": 0.0022457360347985346, "23": 0.01195126488095238}}
+{"kind": "reward", "t": 151, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4628822734313352, "cos_vs_adam_min": 0.258154034614563, "n_mats": 168, "post_ms": 211.10224723815918}
+{"kind": "reward", "t": 152, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4769881197384426, "cos_vs_adam_min": 0.2674597501754761, "n_mats": 168, "post_ms": 220.27969360351562}
+{"kind": "reward", "t": 153, "reward": 0.6875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4820529848691963, "cos_vs_adam_min": 0.27135586738586426, "n_mats": 168, "post_ms": 221.51947021484375}
+{"kind": "reward", "t": 154, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.49166882499342873, "cos_vs_adam_min": 0.2729756832122803, "n_mats": 168, "post_ms": 221.89068794250488}
+{"kind": "reward", "t": 155, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4949414797482036, "cos_vs_adam_min": 0.2705506682395935, "n_mats": 168, "post_ms": 221.48370742797852}
+{"kind": "reward", "t": 156, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5003236993437722, "cos_vs_adam_min": 0.2730167508125305, "n_mats": 168, "post_ms": 219.0406322479248}
+{"kind": "reward", "t": 157, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5041532316023395, "cos_vs_adam_min": 0.27095475792884827, "n_mats": 168, "post_ms": 219.32554244995117}
+{"kind": "reward", "t": 158, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5102628504946118, "cos_vs_adam_min": 0.27577826380729675, "n_mats": 168, "post_ms": 220.73698043823242}
+{"kind": "reward", "t": 159, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5209470357568491, "cos_vs_adam_min": 0.28519585728645325, "n_mats": 168, "post_ms": 218.51778030395508}
+{"kind": "reward", "t": 160, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5233846186172395, "cos_vs_adam_min": 0.2825690805912018, "n_mats": 168, "post_ms": 221.35090827941895}
+{"kind": "reward", "t": 161, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5303997496763865, "cos_vs_adam_min": 0.29268118739128113, "n_mats": 168, "post_ms": 221.3444709777832}
+{"kind": "reward", "t": 162, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5306995308824948, "cos_vs_adam_min": 0.28800931572914124, "n_mats": 168, "post_ms": 222.12719917297363}
+{"kind": "reward", "t": 163, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5375162811861152, "cos_vs_adam_min": 0.2857096791267395, "n_mats": 168, "post_ms": 216.0623073577881}
+{"kind": "reward", "t": 164, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.538492531648704, "cos_vs_adam_min": 0.28994065523147583, "n_mats": 168, "post_ms": 218.1415557861328}
+{"kind": "reward", "t": 165, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5357555221943628, "cos_vs_adam_min": 0.2830723524093628, "n_mats": 168, "post_ms": 222.2578525543213}
+{"kind": "reward", "t": 166, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5360917220158237, "cos_vs_adam_min": 0.2840028703212738, "n_mats": 168, "post_ms": 221.7385768890381}
+{"kind": "reward", "t": 167, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.539898928077448, "cos_vs_adam_min": 0.28656068444252014, "n_mats": 168, "post_ms": 222.0926284790039}
+{"kind": "reward", "t": 168, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5437374155791033, "cos_vs_adam_min": 0.28229841589927673, "n_mats": 168, "post_ms": 215.56639671325684}
+{"kind": "reward", "t": 169, "reward": 0.6875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5451741844770455, "cos_vs_adam_min": 0.284029096364975, "n_mats": 168, "post_ms": 221.51803970336914}
+{"kind": "reward", "t": 170, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.545484739932276, "cos_vs_adam_min": 0.2895953357219696, "n_mats": 168, "post_ms": 221.907377243042}
+{"kind": "reward", "t": 171, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5467878406246504, "cos_vs_adam_min": 0.29265323281288147, "n_mats": 168, "post_ms": 222.0146656036377}
+{"kind": "reward", "t": 172, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5486448109149933, "cos_vs_adam_min": 0.2926611602306366, "n_mats": 168, "post_ms": 221.07172012329102}
+{"kind": "reward", "t": 173, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5479859243191424, "cos_vs_adam_min": 0.2946099042892456, "n_mats": 168, "post_ms": 221.85158729553223}
+{"kind": "reward", "t": 174, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5468422839684146, "cos_vs_adam_min": 0.28708377480506897, "n_mats": 168, "post_ms": 221.99130058288574}
+{"kind": "reward", "t": 175, "reward": 0.1875}
+{"kind": "select", "t": 176, "kept_frac": 0.20000930059523808, "energy_captured": 0.8146534317686908, "per_layer_kept": {"0": 0.003742774152930403, "1": 0.00296545902014652, "2": 0.0030856513278388277, "3": 0.0033478565705128203, "4": 0.004608802655677656, "5": 0.0072555374313186816, "6": 0.009017284798534798, "7": 0.012365499084249084, "8": 0.01186934809981685, "9": 0.015438272664835165, "10": 0.014617316277472528, "11": 0.018272450206043955, "12": 0.017386031936813186, "13": 0.016200921474358976, "14": 0.013030133928571429, "15": 0.011143901671245422, "16": 0.00729667467948718, "17": 0.004912145146520146, "18": 0.004356613438644689, "19": 0.00501480940934066, "20": 0.003268801510989011, "21": 0.0018772893772893773, "22": 0.0019291580815018316, "23": 0.007006567651098901}}
+{"kind": "reward", "t": 176, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.47661034106498673, "cos_vs_adam_min": 0.27041539549827576, "n_mats": 168, "post_ms": 212.294340133667}
+{"kind": "reward", "t": 177, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48446271887847353, "cos_vs_adam_min": 0.2768203616142273, "n_mats": 168, "post_ms": 223.37651252746582}
+{"kind": "reward", "t": 178, "reward": 0.09375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4944372281786941, "cos_vs_adam_min": 0.28234046697616577, "n_mats": 168, "post_ms": 218.89662742614746}
+{"kind": "reward", "t": 179, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5029117638866106, "cos_vs_adam_min": 0.28238236904144287, "n_mats": 168, "post_ms": 216.9501781463623}
+{"kind": "reward", "t": 180, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.502427835549627, "cos_vs_adam_min": 0.2795603573322296, "n_mats": 168, "post_ms": 216.48311614990234}
+{"kind": "reward", "t": 181, "reward": 0.0625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5066104870112169, "cos_vs_adam_min": 0.2855165898799896, "n_mats": 168, "post_ms": 216.827392578125}
+{"kind": "reward", "t": 182, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5067845563448611, "cos_vs_adam_min": 0.28816089034080505, "n_mats": 168, "post_ms": 224.26390647888184}
+{"kind": "reward", "t": 183, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5139244589067641, "cos_vs_adam_min": 0.2884185314178467, "n_mats": 168, "post_ms": 216.74656867980957}
+{"kind": "reward", "t": 184, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5167492652932802, "cos_vs_adam_min": 0.291883260011673, "n_mats": 168, "post_ms": 223.92773628234863}
+{"kind": "reward", "t": 185, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.520945650835832, "cos_vs_adam_min": 0.28362926840782166, "n_mats": 168, "post_ms": 224.09749031066895}
+{"kind": "reward", "t": 186, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5252310287739549, "cos_vs_adam_min": 0.29252877831459045, "n_mats": 168, "post_ms": 217.37384796142578}
+{"kind": "reward", "t": 187, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5293513477912971, "cos_vs_adam_min": 0.2789801359176636, "n_mats": 168, "post_ms": 217.93627738952637}
+{"kind": "reward", "t": 188, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5315763716186795, "cos_vs_adam_min": 0.2957570552825928, "n_mats": 168, "post_ms": 217.818021774292}
+{"kind": "reward", "t": 189, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5358515908675534, "cos_vs_adam_min": 0.2989667057991028, "n_mats": 168, "post_ms": 217.06247329711914}
+{"kind": "reward", "t": 190, "reward": 0.21875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5371221397959051, "cos_vs_adam_min": 0.3081570565700531, "n_mats": 168, "post_ms": 224.48992729187012}
+{"kind": "reward", "t": 191, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5354186427735147, "cos_vs_adam_min": 0.301916241645813, "n_mats": 168, "post_ms": 217.86808967590332}
+{"kind": "reward", "t": 192, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.539171697660571, "cos_vs_adam_min": 0.3022966682910919, "n_mats": 168, "post_ms": 222.87750244140625}
+{"kind": "reward", "t": 193, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5393471293860957, "cos_vs_adam_min": 0.2752615213394165, "n_mats": 168, "post_ms": 223.97160530090332}
+{"kind": "reward", "t": 194, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5362863026204563, "cos_vs_adam_min": 0.2769594192504883, "n_mats": 168, "post_ms": 216.97163581848145}
+{"kind": "reward", "t": 195, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5416043971975645, "cos_vs_adam_min": 0.288063108921051, "n_mats": 168, "post_ms": 215.80791473388672}
+{"kind": "reward", "t": 196, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5442415890949113, "cos_vs_adam_min": 0.282840758562088, "n_mats": 168, "post_ms": 216.07613563537598}
+{"kind": "reward", "t": 197, "reward": 0.25}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5440240436721415, "cos_vs_adam_min": 0.3040284812450409, "n_mats": 168, "post_ms": 222.40447998046875}
+{"kind": "reward", "t": 198, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5410687047101203, "cos_vs_adam_min": 0.2996451258659363, "n_mats": 168, "post_ms": 223.65164756774902}
+{"kind": "reward", "t": 199, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5427043693406242, "cos_vs_adam_min": 0.3165050148963928, "n_mats": 168, "post_ms": 223.8297462463379}
+{"kind": "reward", "t": 200, "reward": 0.40625}
+{"kind": "select", "t": 201, "kept_frac": 0.20001001602564103, "energy_captured": 0.8037318975858941, "per_layer_kept": {"0": 0.006004965086996337, "1": 0.0038593893086080588, "2": 0.004961152129120879, "3": 0.005355354281135531, "4": 0.00617022951007326, "5": 0.010390553456959706, "6": 0.01298828125, "7": 0.014425938644688645, "8": 0.012684223328754579, "9": 0.01442486549908425, "10": 0.015466532165750916, "11": 0.014883098672161171, "12": 0.011272679143772894, "13": 0.010958247481684981, "14": 0.011433650984432234, "15": 0.011415049793956043, "16": 0.008552970467032968, "17": 0.00561934809981685, "18": 0.004333719665750916, "19": 0.004559080242673993, "20": 0.0026571085164835166, "21": 0.0014963226877289378, "22": 0.0011353880494505495, "23": 0.004961867559523809}}
+{"kind": "reward", "t": 201, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4646100897696756, "cos_vs_adam_min": 0.22910116612911224, "n_mats": 168, "post_ms": 215.37160873413086}
+{"kind": "reward", "t": 202, "reward": 0.65625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48118811774821507, "cos_vs_adam_min": 0.2141268253326416, "n_mats": 168, "post_ms": 213.05155754089355}
+{"kind": "reward", "t": 203, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.48941111378371716, "cos_vs_adam_min": 0.2237752228975296, "n_mats": 168, "post_ms": 213.3772373199463}
+{"kind": "reward", "t": 204, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.49749318616730825, "cos_vs_adam_min": 0.22871825098991394, "n_mats": 168, "post_ms": 212.96095848083496}
+{"kind": "reward", "t": 205, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.502389026450969, "cos_vs_adam_min": 0.2447192221879959, "n_mats": 168, "post_ms": 219.12240982055664}
+{"kind": "reward", "t": 206, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5050692202612048, "cos_vs_adam_min": 0.22898830473423004, "n_mats": 168, "post_ms": 218.66989135742188}
+{"kind": "reward", "t": 207, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5130581942697366, "cos_vs_adam_min": 0.2250562608242035, "n_mats": 168, "post_ms": 217.71717071533203}
+{"kind": "reward", "t": 208, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5250470804139262, "cos_vs_adam_min": 0.2263842672109604, "n_mats": 168, "post_ms": 217.96226501464844}
+{"kind": "reward", "t": 209, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5205346549905482, "cos_vs_adam_min": 0.22348737716674805, "n_mats": 168, "post_ms": 218.17326545715332}
+{"kind": "reward", "t": 210, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.523064474353478, "cos_vs_adam_min": 0.2317356914281845, "n_mats": 168, "post_ms": 211.35759353637695}
+{"kind": "reward", "t": 211, "reward": 0.1875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5271066966510954, "cos_vs_adam_min": 0.2544099986553192, "n_mats": 168, "post_ms": 211.32755279541016}
+{"kind": "reward", "t": 212, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5300651380703563, "cos_vs_adam_min": 0.25671231746673584, "n_mats": 168, "post_ms": 216.7336940765381}
+{"kind": "reward", "t": 213, "reward": 0.6875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.531985663409744, "cos_vs_adam_min": 0.2590908706188202, "n_mats": 168, "post_ms": 218.71376037597656}
+{"kind": "reward", "t": 214, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5308971774010431, "cos_vs_adam_min": 0.2873085141181946, "n_mats": 168, "post_ms": 217.39745140075684}
+{"kind": "reward", "t": 215, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5383039943519092, "cos_vs_adam_min": 0.29896363615989685, "n_mats": 168, "post_ms": 218.2178497314453}
+{"kind": "reward", "t": 216, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5418542957022077, "cos_vs_adam_min": 0.29669269919395447, "n_mats": 168, "post_ms": 218.1689739227295}
+{"kind": "reward", "t": 217, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5433718434401921, "cos_vs_adam_min": 0.3026323616504669, "n_mats": 168, "post_ms": 217.82803535461426}
+{"kind": "reward", "t": 218, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.545982495305084, "cos_vs_adam_min": 0.26630717515945435, "n_mats": 168, "post_ms": 211.51375770568848}
+{"kind": "reward", "t": 219, "reward": 0.84375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5475552656820842, "cos_vs_adam_min": 0.2492024004459381, "n_mats": 168, "post_ms": 210.84284782409668}
+{"kind": "reward", "t": 220, "reward": 0.5625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5483317145456871, "cos_vs_adam_min": 0.24001576006412506, "n_mats": 168, "post_ms": 216.97449684143066}
+{"kind": "reward", "t": 221, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5478178608630385, "cos_vs_adam_min": 0.23878633975982666, "n_mats": 168, "post_ms": 218.5509204864502}
+{"kind": "reward", "t": 222, "reward": 0.3125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.552693729599317, "cos_vs_adam_min": 0.2265082597732544, "n_mats": 168, "post_ms": 211.95673942565918}
+{"kind": "reward", "t": 223, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5535536552114146, "cos_vs_adam_min": 0.23045027256011963, "n_mats": 168, "post_ms": 217.96607971191406}
+{"kind": "reward", "t": 224, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5550742124517759, "cos_vs_adam_min": 0.25248023867607117, "n_mats": 168, "post_ms": 218.6877727508545}
+{"kind": "reward", "t": 225, "reward": 0.375}
+{"kind": "select", "t": 226, "kept_frac": 0.20000143086080585, "energy_captured": 0.8190467801257696, "per_layer_kept": {"0": 0.006261804601648352, "1": 0.003693409455128205, "2": 0.004821285485347986, "3": 0.00452724358974359, "4": 0.005285599816849817, "5": 0.007897636217948718, "6": 0.009408267513736263, "7": 0.012053571428571429, "8": 0.013579942193223444, "9": 0.0138507326007326, "10": 0.016478866185897435, "11": 0.018753219436813188, "12": 0.01907802483974359, "13": 0.017114883814102564, "14": 0.011377489697802197, "15": 0.009537760416666667, "16": 0.005222641941391941, "17": 0.0033174507783882783, "18": 0.0029711824633699632, "19": 0.0032820369734432235, "20": 0.002457861149267399, "21": 0.0015796703296703297, "22": 0.0015760931776556777, "23": 0.005874756753663004}}
+{"kind": "reward", "t": 226, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.4931740526642118, "cos_vs_adam_min": 0.2272484004497528, "n_mats": 168, "post_ms": 204.864501953125}
+{"kind": "reward", "t": 227, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5017301330254191, "cos_vs_adam_min": 0.22345048189163208, "n_mats": 168, "post_ms": 214.59650993347168}
+{"kind": "reward", "t": 228, "reward": 0.53125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.507678837471065, "cos_vs_adam_min": 0.20140191912651062, "n_mats": 168, "post_ms": 216.65358543395996}
+{"kind": "reward", "t": 229, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5102722246554636, "cos_vs_adam_min": 0.21570171415805817, "n_mats": 168, "post_ms": 216.05396270751953}
+{"kind": "reward", "t": 230, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5216673093714884, "cos_vs_adam_min": 0.2135089784860611, "n_mats": 168, "post_ms": 209.8381519317627}
+{"kind": "reward", "t": 231, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.521076178355586, "cos_vs_adam_min": 0.2138027399778366, "n_mats": 168, "post_ms": 216.9332504272461}
+{"kind": "reward", "t": 232, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5264073478146678, "cos_vs_adam_min": 0.2173186093568802, "n_mats": 168, "post_ms": 216.35985374450684}
+{"kind": "reward", "t": 233, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5299964647385336, "cos_vs_adam_min": 0.22904841601848602, "n_mats": 168, "post_ms": 216.217041015625}
+{"kind": "reward", "t": 234, "reward": 0.625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5335328835284426, "cos_vs_adam_min": 0.22913222014904022, "n_mats": 168, "post_ms": 210.92987060546875}
+{"kind": "reward", "t": 235, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5359200847645601, "cos_vs_adam_min": 0.24422061443328857, "n_mats": 168, "post_ms": 214.5986557006836}
+{"kind": "reward", "t": 236, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5418635647566545, "cos_vs_adam_min": 0.2569873034954071, "n_mats": 168, "post_ms": 209.05661582946777}
+{"kind": "reward", "t": 237, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5446400362111273, "cos_vs_adam_min": 0.23599639534950256, "n_mats": 168, "post_ms": 216.24112129211426}
+{"kind": "reward", "t": 238, "reward": 0.8125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5436155283380122, "cos_vs_adam_min": 0.22867149114608765, "n_mats": 168, "post_ms": 217.35715866088867}
+{"kind": "reward", "t": 239, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5449467394500971, "cos_vs_adam_min": 0.22722233831882477, "n_mats": 168, "post_ms": 216.0038948059082}
+{"kind": "reward", "t": 240, "reward": 0.46875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5476128090882585, "cos_vs_adam_min": 0.24291811883449554, "n_mats": 168, "post_ms": 216.35699272155762}
+{"kind": "reward", "t": 241, "reward": 0.28125}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5480677356854791, "cos_vs_adam_min": 0.24609939754009247, "n_mats": 168, "post_ms": 216.1390781402588}
+{"kind": "reward", "t": 242, "reward": 0.59375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5473697980244955, "cos_vs_adam_min": 0.23938238620758057, "n_mats": 168, "post_ms": 214.90001678466797}
+{"kind": "reward", "t": 243, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5475825513047832, "cos_vs_adam_min": 0.2734842300415039, "n_mats": 168, "post_ms": 214.9505615234375}
+{"kind": "reward", "t": 244, "reward": 0.4375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5489214607292697, "cos_vs_adam_min": 0.3009142279624939, "n_mats": 168, "post_ms": 210.0963592529297}
+{"kind": "reward", "t": 245, "reward": 0.34375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5494874314892859, "cos_vs_adam_min": 0.27247267961502075, "n_mats": 168, "post_ms": 216.5086269378662}
+{"kind": "reward", "t": 246, "reward": 0.71875}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5527543118667035, "cos_vs_adam_min": 0.2911071479320526, "n_mats": 168, "post_ms": 209.46860313415527}
+{"kind": "reward", "t": 247, "reward": 0.375}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5524526222475937, "cos_vs_adam_min": 0.26965901255607605, "n_mats": 168, "post_ms": 215.803861618042}
+{"kind": "reward", "t": 248, "reward": 0.5}
+{"kind": "kfac", "cos_vs_adam_mean": 0.5558847075416928, "cos_vs_adam_min": 0.2269446849822998, "n_mats": 168, "post_ms": 214.99037742614746}
+{"kind": "reward", "t": 249, "reward": 0.40625}
+{"kind": "kfac", "cos_vs_adam_mean": 0.555934551393702, "cos_vs_adam_min": 0.25038158893585205, "n_mats": 168, "post_ms": 216.62163734436035}
+{"kind": "reward", "t": 250, "reward": 0.75}
+{"kind": "heldout", "n": 300, "max_new_tokens": 256, "acc": 0.4266666666666667, "sample_tails": ["ince Janet sells all the remaining eggs at the farmers' market, she makes $2 per egg. Therefore, the amount of money she makes every day is:\n\\[ 16 \\times 2 = 32 \\]\n\nSo, the answer is:\n\\[\n\\boxed{32}\n\\]", "white fiber is half the amount of blue fiber, so it is \\( \\frac{2}{2} = 1 \\) bolt.\n\nAdding these together, the total number of bolts needed is:\n\\[ 2 + 1 = 3 \\]\n\nTherefore, the answer is \\(\\boxed{3}\\)."]}
